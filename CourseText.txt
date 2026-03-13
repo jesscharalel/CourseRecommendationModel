@@ -1,0 +1,2235 @@
+AAST-0062 Childhood Across Culture
+AAST-0094 Special Studies - Asian Amer Theater& Film
+AAST-0094 Special Studies - Introduction to Asian American Studies
+AAST-0193 Independent Study
+AAST-0194 Special Topics - Histories of Race, Contagion
+ACL-0013 RISE seminar
+ACL-0100 Foundations for Academic Success
+ACL-0194 Special Topics - Chemistry Workshop
+ACL-0194 Special Topics - Chemistry Workshop
+ACL-0194 Special Topics - Chemistry Workshop
+ACL-0194 Special Topics - Chemistry Workshop
+AFR-0004 Introduction To Arts Of Africa
+AFR-0014 Africa since 1800
+AFR-0047 Special Topics - First African American Writers
+AFR-0092 Introduction to Africana Studies
+AFR-0147 Special Topics - James Baldwin: Revolutionary
+AFR-0147 Special Topics - Black Feminist Epistemologies
+AFR-0147 Special Topics - Modern East Africa
+AFR-0199 Independent Study
+AMER-0047 Dissent and Democracy: American Literature to 1900
+AMER-0094 Special Topics - Intro to Queer Studies
+AMER-0094 Special Topics - Intro to Asian Amer Studies
+AMER-0094 Special Topics - Intro to American Studies
+AMER-0094 Special Topics - Colonial Schooling in Comparat
+AMER-0094 Special Topics - Intro to Africana Studies
+AMER-0193 Independent Study
+AMER-0194 Special Topics - Histories of Race, Contagion
+ANTH-0020 Global Cities
+ANTH-0026 Anthropology of Socialism and Postsocialism
+ANTH-0028 The Anthropology of Capitalism
+ANTH-0044 Primate Social Behavior
+ANTH-0050 Introduction to Archaeology
+ANTH-0099 Internship In Anthropology
+ANTH-0116 Archaeology Methods, Ethics, and Dilemmas
+ANTH-0123 Technologies of Enchantment
+ANTH-0132 Myth, Ritual, And Symbol
+ANTH-0133 Journalisms and Freedoms of Expression
+ANTH-0137 Language & Culture
+ANTH-0147 Sex and Money: Anthropology of Sex Work
+ANTH-0149 Selected Topics - Lawns, Monocultures, & Commons
+ANTH-0149 Selected Topics - Medieval Ruins + Relics
+ANTH-0149 Selected Topics - Technology&Ecologies of Crisis
+ANTH-0149 Selected Topics - Boston Soundscapes and Music
+ANTH-0149 Selected Topics - Ecotopias
+ANTH-0154 Fieldwork Methods in Music, Sound, and Culture
+ANTH-0158 The Deep History of Climate Adaptation
+ANTH-0159 Practicing in Food Systems
+ANTH-0168 Anthropology of Colonialism / Decolonizing Anthropology
+ANTH-0175 Think Like an Archaeologist!
+ANTH-0180 Primate Conservation
+ANTH-0191 Directed Reading
+ANTH-0197 Directed Research
+ANTH-0198 Apprenticeship In Anthropological Research
+ANTH-0198 Apprenticeship In Anthropological Research - Mohegan Archaeology Laboratory
+ANTH-0199 Senior Honors Thesis B
+ARB-0002 Elementary Modern Standard Arabic
+ARB-0004 Intermediate Standard Arabic II
+ARB-0005 Colloquial Arabic: Levantine
+ARB-0022 Arabic Reading, Composition & Conversation
+ARB-0051 Arabic Music Ensemble
+ARB-0063 Arabian Nights
+ARB-0066 Border Crossings in Literature and Film
+ARB-0093 Directed Study
+ARB-0094 Directed Study
+ARB-0124 Advanced Readings in Arabic Culture
+ARB-0130 Monsters in Literature and Film
+ARB-0193 Advanced Directed Study
+ARB-0194 Advanced Directed Study
+ARB-0199 Arabic Honors Thesis B
+ARCH-0027 Classical Archaeology
+ARCH-0028 Ancient China, Korea, and Japan
+ARCH-0030 Introduction to Archaeology
+ARCH-0035 Ancient Natural Disasters
+ARCH-0052 Special Topics In Archaeology - Medieval Ruins + Relics
+ARCH-0116 Archaeology Methods, Ethics, and Dilemmas
+ARCH-0164 Greek Art And Archaeology
+ARCH-0175 Introduction to Geospatial Humanities
+ARCH-0185 Think Like an Archaeologist!
+ARCH-0192 Advanced Study Or Seminar In Archaeology - Archaeological Internship
+ARCH-0194 Senior Honors Thesis In Archaeology B
+AST-0006 From The Big Bang To Humankind
+AST-0032 Galactic and Extragalactic Astrophysics
+AST-0051 Astrophysics Laboratory
+AST-0061 Exoplanets and Their Orbits
+AST-0122 Extragalactic Astronomy
+AST-0151 Astrophysics Laboratory
+AST-0161 Exoplanets and Their Orbits
+AST-0192 Special Studies - Exoplanet Research
+AST-0193 Topics In Astronomy And Astrophysics
+BIO-0006 From The Big Bang To Humankind
+BIO-0007 Global Change Biology
+BIO-0014 Organisms And Population W/ Lab
+BIO-0019 Mass Extinctions: The Past, Present, and Future of Biodiversity
+BIO-0021 Civic Biology II
+BIO-0041 General Genetics
+BIO-0044 Primate Social Behavior
+BIO-0046 Cell Biology
+BIO-0050 Experiments In Molecular Biology
+BIO-0056 Developmental Biology Research Lab
+BIO-0061 Biology of Aging
+BIO-0065 Cancer Biology: From Development to Treatment
+BIO-0093 Research in Biology
+BIO-0095 Introduction to Independent Study in Biology - Intro Biology Practice
+BIO-0096 Introductory Topics in Biology - LA Bio Learning Assistant Training Meeting
+BIO-0104 Immunology
+BIO-0105 Molecular Biology
+BIO-0106 Microbiology Lecture
+BIO-0107 Microbiology Lab
+BIO-0116 Physiology – Endocrine, Neural, and Digestion
+BIO-0118 Plant Physiology
+BIO-0119 Biophysics
+BIO-0122 Regeneration in Biology: From Nature to Medicine
+BIO-0130 Animal Behavior
+BIO-0133 Ecological Statistics & Data w/Lab
+BIO-0134 Neurobiology
+BIO-0143 Evolutionary Biology w/Lab
+BIO-0145 Computational Laboratory in Population Genomics
+BIO-0162 Molecular Biotechnology
+BIO-0164 Marine Biology
+BIO-0171 Advanced Genetics: DNA Repair and Genome Editing
+BIO-0177 Primate Conservation
+BIO-0186 Seminar in Field Endocrinology
+BIO-0188 Seminar In Molecular Biology And Genetics
+BIO-0191 Protein Structure and Function
+BIO-0193 Independent Research in Biology
+BIO-0195 Independent Study in Biology
+BIO-0195 Independent Study in Biology - CPT work in Biology
+BIO-0196 Exploratory Topics in Biology
+BIO-0196 Exploratory Topics in Biology - Molecules, Medicines & Markets
+BIO-0196 Exploratory Topics in Biology - Career Skills For Biologists
+BIO-0199 Senior Honors Thesis A
+BIO-0199 Senior Honors Thesis B
+BIO-0200 Lab Meeting
+BIO-0200 Lab Meeting - Biological Pattern Regulation
+BIO-0200 Lab Meeting - Development and Repair
+BIO-0200 Lab Meeting - Eukaryotic DNA Repair
+BIO-0200 Lab Meeting - Genome Instability in Yeast
+BIO-0200 Lab Meeting - Neuromech & Biomimetic Devices
+BIO-0200 Lab Meeting - Conservation Endocrinology
+BIO-0200 Lab Meeting - Ecology and Evolution of the Vaginal Microbiome
+BIO-0200 Lab Meeting - Enzymology of Nucleic Acid Metabolism
+BIO-0200 Lab Meeting - Behavioral Evolution. Ecology
+BIO-0200 Lab Meeting - Neuromechanics of Loco. Fishes
+BIO-0200 Lab Meeting - Plant and Animal Interactions
+BIO-0200 Lab Meeting - Ecol. & Evolution Microbiomes
+BIO-0200 Lab Meeting - Ecological and Evolutionary Genetics
+BIO-0200 Lab Meeting - DNA Structure and Function
+BIO-0200 Lab Meeting - Sensorimotor Learning of Complex Skills
+BIO-0200 Lab Meeting - Computational Evol. Genomics
+BIO-0200 Lab Meeting - DNA lesion recognition and rep
+BIO-0200 Lab Meeting - Marine Evolutionary Ecology & Conservation Biology
+BIO-0200 Lab Meeting - Development and Repair
+BIO-0201 Biology Department Seminar
+BIO-0254 Graduate Student Research Rotation
+BIO-0258 Graduate Research and Experimental Design 2nd year
+BIO-0259 Capstone: Research Proposal and Review
+BIO-0291 Graduate Seminar in Molecular and Developmental Biology A
+BIO-0298 PhD Dissertation
+BIO-0401 Masters Degree Continuation
+BIO-0402 Masters Degree Continuation
+BIO-0405 Grad Teaching Assistant
+BIO-0406 Grad Research Assistant
+BIO-0501 Doctoral Degree Continuation
+BIO-0502 Doctoral Degree Continuation
+BIOE-0292 Masters In Bioengineering Seminar II
+BME-0006 Scientific Reading, Writing, and Presentations
+BME-0008 Biomedical Engineering Senior Design II
+BME-0009 BME Senior Design Project
+BME-0012 Biothermodynamics
+BME-0025 Biophysics
+BME-0034 Biomedical Concepts at the Molecular, Protein and Cellular Scales II
+BME-0044 Biomedical Concepts at the Tissue, Organ and Systems Scales I
+BME-0066 Engineering Design Process
+BME-0088 Internship
+BME-0090 Honors Thesis B
+BME-0092 Undergraduate research
+BME-0100 Design Of Medical Instrumentation
+BME-0120 Project Study In Human Systems
+BME-0125 Biophysics
+BME-0151 Introduction To Biophotonics
+BME-0154 Tissue Engineering and Regenerative Medicine
+BME-0156 Biophotonics Laboratory
+BME-0162 Molecular Biotechnology
+BME-0166 Computer Interface Design
+BME-0167 Computational Biology
+BME-0174 Cellular Agriculture & Cultured Meat Lab
+BME-0175 Tissue Engineering Research Laboratory
+BME-0176 3D Printing the Human Body
+BME-0184 BME Entrepreneurship & Strategy
+BME-0185 Drug Product Formulation
+BME-0194 Special Topics - Internship
+BME-0194 Special Topics - Engineering Cancer
+BME-0194 Special Topics - Cardiovascular System Eng
+BME-0208 Visual Communication in Biomedical Research
+BME-0238 Economics of Food, Agriculture and Nutrition
+BME-0290 BME Graduate Project
+BME-0292 Graduate Seminar - seminar
+BME-0294 Special Topics - Non-Thesis Graduate Research
+BME-0296 Master's Thesis
+BME-0298 Doctoral Thesis
+BME-0299 BME Original Research Proposal
+BME-0401 Master's Continuation
+BME-0402 Master's Continuation
+BME-0404 Graduate Engineering Co-op
+BME-0405 Grad Teaching Assistant
+BME-0406 Grad Research Assistant
+BME-0501 Doctoral Continuation - Part Time
+BME-0502 Doctoral Continuation - Full Time
+CEE-0006 Fundamentals of Biostatistics
+CEE-0012 Hydraulics
+CEE-0024 Steel Design
+CEE-0036 Environmental Engineering Processes
+CEE-0052 Public Health Engineering
+CEE-0062 Project Management and Engineering Economics
+CEE-0086 Integrated Planning and Management of Civil Infrastructure Systems
+CEE-0088 Capstone Design
+CEE-0090 Cataldo Scholar Research
+CEE-0094 Independent Study
+CEE-0096 Research Thesis B
+CEE-0103 Climate Change Science and Engineering
+CEE-0105 Finite Element Analysis
+CEE-0112 River Hydraulics and Stream Restoration
+CEE-0125 Advanced Reinforced Concrete
+CEE-0132 Data Science for Sustainability
+CEE-0136 Air Pollution and Control
+CEE-0146 Foundation Engineering
+CEE-0154 Principles Epidemiology
+CEE-0156 Biostatistics
+CEE-0158 Occupational And Environmental Health
+CEE-0184 Resilient and Equitable Infrastructure
+CEE-0189 Introduction to Remote Sensing
+CEE-0207 Environmental Law
+CEE-0209 Problem Focused Immersion for Making Data Driven Decisions
+CEE-0220 Off Shore Wind Structures
+CEE-0244 Laboratory And In-situ Measurement Of Soil Property
+CEE-0247 Geotechnical Earthquake Engineering
+CEE-0265 Corporate Management Of Environmental Issues
+CEE-0290 Master’s Project
+CEE-0292 Graduate Seminar
+CEE-0293 Special Topics - Model Verification & Validatio
+CEE-0293 Special Topics - Power Systems & Markets
+CEE-0294 Independent Study - Interferometric SAR
+CEE-0295 Master's Thesis
+CEE-0296 Master's Thesis II
+CEE-0297 Doctoral Thesis I
+CEE-0298 Doctoral Thesis II
+CEE-0299 Doctoral Thesis III
+CEE-0401 Master's Degree Continuation-pt
+CEE-0402 Master's Degree Continuation-ft
+CEE-0404 Graduate Engineering Co-op
+CEE-0405 Graduate Teaching Assistant
+CEE-0406 Graduate Research Assistant
+CEE-0501 Doctoral Degree Continuation-pt
+CEE-0502 Doctoral Degree Continuation-ft
+CER-0102 Introduction to Ceramics
+CER-0120 Ceramics Int/Adv Wheel
+CER-0132 Ceramics Technical Explorations
+CER-0149 Advanced Studio Projects
+CER-0191 Special Topics - Food: Politics of the Table
+CH-0001 Introduction To Community Health
+CH-0002 Introduction to the U.S. Healthcare System
+CH-0010 Public Health Engineering
+CH-0011 Introduction to Global Health
+CH-0030 Community Health Methods
+CH-0099 Special Topics In Community Health - Drugs, Society and Public Health
+CH-0099 Special Topics In Community Health - AI in Health: Impact & Policy
+CH-0103 Health Policy Analysis
+CH-0108 Epidemics: Plagues, Peoples and Politics
+CH-0112 Health Economics
+CH-0114 Principles Epidemiology
+CH-0116 Fundamentals of Biostatistics
+CH-0121 Disability and Difference in Children
+CH-0131 Analysis of Medical and Health Data
+CH-0140 Internship in Community, Public, & Global Health
+CH-0199 Special Topics - Truth or D.A.R.E: Contemporary Issues Drug Policy
+CH-0199 Special Topics - Perspectives on Aging in US
+CH-0199 Special Topics - Comm, Health & Social Change
+CH-0199 Special Topics - Developing Community Based Interventions
+CH-0199 Special Topics - Global Health Topics
+CHBE-0011 Chemical Engineering Thermodynamics
+CHBE-0021 Transport Phenomena I
+CHBE-0045 Chemical And Biological Separations
+CHBE-0052 Chemical And Biological Engineering Laboratory
+CHBE-0060 Product & Process Design
+CHBE-0095 Undergraduate Research
+CHBE-0096 Honors Thesis Research B
+CHBE-0099 Internship In Chemical & Biological Engineering
+CHBE-0102 Reactor Design
+CHBE-0112 Thermal-fluid Transport II
+CHBE-0116 Composite Materials
+CHBE-0161 Protein Purification
+CHBE-0162 Molecular Biotechnology
+CHBE-0165 Biomolecular Engineering and Design
+CHBE-0166 Upstream Bioprocess Engineering
+CHBE-0185 Drug Product Formulation
+CHBE-0194 Special Topics - Heterogeneous Catalysis
+CHBE-0194 Special Topics - Electrochemistry for Energy
+CHBE-0203 Advanced Thermodynamics
+CHBE-0204 Advanced Transport Phenomena
+CHBE-0290 Master's Project
+CHBE-0292 Graduate Seminar
+CHBE-0296 Master's Thesis Research
+CHBE-0298 Doctoral Thesis Research
+CHBE-0299 Graduate Internship in Chemical & Biological Engineering
+CHBE-0401 Master's Degree Continuation - Part Time
+CHBE-0402 Master's Degree Continuation - Full Time
+CHBE-0404 Graduate Engineering Co-op
+CHBE-0405 Grad Teaching Assistant
+CHBE-0406 Grad Research Assistant
+CHBE-0501 Doctoral Continuation - PT
+CHBE-0502 Doctoral Degree Continuation - Full Time
+CHEM-0001 General Chemistry I with Lab
+CHEM-0002 General Chemistry II with Lab
+CHEM-0004 Frontiers in Chemistry
+CHEM-0006 From The Big Bang To Humankind
+CHEM-0012 Expanded General Chemistry II with Lab
+CHEM-0032 Physical Chemistry II
+CHEM-0034 Physical Chemistry Lab II
+CHEM-0035 Biophysical Chemistry
+CHEM-0042 Quantitative Analysis
+CHEM-0051 Organic Chemistry I
+CHEM-0052 Organic Chemistry II
+CHEM-0053 Organic Chemistry I Lab
+CHEM-0054 Organic Chemistry II Lab
+CHEM-0081 Research I
+CHEM-0082 Research II
+CHEM-0083 Research III
+CHEM-0084 Research IV
+CHEM-0085 Research V
+CHEM-0086 Research VI
+CHEM-0138 Atomic Scale Structure and Properties of Surfaces
+CHEM-0141 Instrumental Analysis
+CHEM-0142 Advanced Analytical Methods
+CHEM-0152 Advanced Organic Synthesis
+CHEM-0157 Molecular Medicine
+CHEM-0166 Organometallic Chemistry
+CHEM-0171 Biochemistry I
+CHEM-0199 Senior Thesis II
+CHEM-0282 Seminar In Chemistry - Seminars in Chemistry
+CHEM-0292 Professional Skills in Chemical Research, Training and Learning
+CHEM-0294 Special Topics - Chemistry Intelligence
+CHEM-0296 Graduate Research Ms
+CHEM-0297 Graduate Research
+CHEM-0298 Graduate Research
+CHEM-0401 Masters Degree Continuation
+CHEM-0402 Masters Degree Continuation
+CHEM-0405 Grad Teaching Assistant
+CHEM-0406 Grad Research Assistant
+CHEM-0501 Doctoral Degree Continuation
+CHEM-0502 Doctoral Degree Continuation
+CHNS-0002 Elementary Chinese II
+CHNS-0004 Intermediate Chinese II
+CHNS-0022 Reading & Conversation II
+CHNS-0079 Women And Gender In Modern Chinese Culture
+CHNS-0093 Directed Study
+CHNS-0094 Directed Study
+CHNS-0101 Foundations Chinese Thought
+CHNS-0122 Advanced Chinese II
+CHNS-0127 Reading Short Stories
+CHNS-0185 China and the West
+CHNS-0193 Advanced Directed Study
+CHNS-0194 Advanced Directed Study
+CHNS-0199 Senior Honors Thesis
+CHNS-03/4 Intensive Intermediate Chinese
+CIS-0094 CIS Senior Thesis A
+CIS-0094 CIS Senior Thesis B
+CIS-0095 Interdisciplinary Studies Thesis A
+CIS-0095 Interdisciplinary Studies Thesis B
+CIS-0099 Internship
+CIS-0120 Interdisciplinary Minor Capstone
+CIS-0194 CIS Senior Honors Thesis A
+CIS-0194 Cis Senior Honors Thesis B
+CIS-0195 Interdisciplinary Studies Honors Thesis A
+CIS-0195 Interdisciplinary Studies Honors Thesis B
+CLS-0027 Classical Archaeology - Civilizations of Mediterranean
+CLS-0028 Ancient China, Korea, and Japan
+CLS-0032 Roman Literature: Texts and Contexts - Roman Lit: Text & Context
+CLS-0033 Invitation to Sanskrit Literature
+CLS-0035 Ancient Natural Disasters
+CLS-0038 History Of Ancient Rome
+CLS-0056 Greek And Roman Comedy
+CLS-0059 Introduction to the New Testament
+CLS-0071 Historical Linguistics
+CLS-0079 War and Diplomacy in the Ancient World
+CLS-0091 Special And Independent Studies In Classics - The Greco-Roman World & the Invention of America
+CLS-0096 Special Topics - Ancient History - The Ancient Jewish Diaspora
+CLS-0105 Nature and the Environment in Greek Mythology
+CLS-0108 Alexander the Great: History, Myth, Legend, and Legacy
+CLS-0110 Empresses, Saints, & Scholars: The Women Of Byzantium
+CLS-0125 Introduction to Geospatial Humanities
+CLS-0135 Ancient Natural Disasters
+CLS-0152 History Of Modern Philosophy
+CLS-0161 Introduction to Digital Humanities
+CLS-0162 Natural Language Processing and the Human Record
+CLS-0164 Greek Art And Archaeology
+CLS-0169 North Africa in Antiquity
+CLS-0176 Ancient Medicine Seminar
+CLS-0178 Research Topics in Ancient Medicine and its Transmission
+CLS-0185 Seminar In Ancient History - Decline & Fall of Roman Empire
+CLS-0189 Seminar In Ancient Philosophy - Ignorance and Argument
+CLS-0191 Advanced Special Study Or Seminar In Classics - The Greco-Roman World & the Invention of America
+CLS-0191 Advanced Special Study Or Seminar In Classics - Suetonius in English
+CLS-0191 Advanced Special Study Or Seminar In Classics - Roman Women
+CLS-0195 Senior Honors Thesis
+CLS-0294 Special Topics - Nat Lang Proc (Advanced)
+CLS-0296 Thesis B
+CLS-0401 Masters Continuation
+CLS-0402 Masters Continuation
+CLS-0405 Grad Teaching Assistant
+CLS-0406 Grad Research Assistant
+CS-0004 Teaching Computer Science
+CS-0010 Programming Fundamentals
+CS-0011 Introduction To Computer Science
+CS-0014 Emerging Scholars in Computer Science
+CS-0015 Data Structures
+CS-0015 Data Structures
+CS-0020 Web Programming
+CS-0023 Game Design
+CS-0027 How Systems Fail
+CS-0028 Cyber-Security and Cyber-Warfare
+CS-0030 Programming for Data Science - Programming for Data Science
+CS-0040 Machine Structure & Assembly-language Programming
+CS-0061 Discrete Mathematics
+CS-0062 Discrete Math Skills Workshop
+CS-0093 Directed Study
+CS-0093 Directed Study - Research in Computational Bio
+CS-0098 Senior Capstone Project II
+CS-0099 Internship Computer Science
+CS-0105 Programming Languages
+CS-0107 Compilers
+CS-0110 Debugging Cloud Computing
+CS-0111 Operating Systems
+CS-0114 Network Security
+CS-0115 Database Systems
+CS-0116 Introduction to Security
+CS-0120 Web Programming and Engineering
+CS-0121 Software Engineering
+CS-0122 Parallel Computing
+CS-0128 Machine Learning via Sequential Interaction
+CS-0131 Artificial Intelligence
+CS-0132 Computer Vision
+CS-0135 Introduction To Machine Learning And Data Mining
+CS-0137 Deep Neural Networks
+CS-0141 Probabilistic Robotics for Human-Robot Interaction
+CS-0145 Bayesian Deep Learning
+CS-0150 Special Topics - Multi-Agent Systems
+CS-0150 Special Topics - Anonymous Communications Theory
+CS-0150 Special Topics - Generative AI for Social Impac
+CS-0150 Special Topics - Special Topics in Quantum Info
+CS-0150 Special Topics - Artificial Agents & Auto
+CS-0150 Special Topics - Sports Analytics
+CS-0150 Special Topics - Entrepreneurship for Comp Sci
+CS-0150 Special Topics - MITRE eCTF
+CS-0150 Special Topics - Introduction to ROS
+CS-0150 Special Topics - Analysis Mthds for Images, Text &Unstructured Data
+CS-0160 Algorithms
+CS-0160 Algorithms
+CS-0167 Computational Biology
+CS-0168 Convex Optimization
+CS-0170 Computation Theory
+CS-0170 Computation Theory
+CS-0171 Human Computer Interaction
+CS-0172 HCI for Disability
+CS-0178 Visual Analytics
+CS-0179 Experimental Methods for Engineers
+CS-0183 Privacy in the Digital Age
+CS-0191 Research
+CS-0193 Directed Study
+CS-0193 Directed Study - Advanced Cryptography
+CS-0193 Directed Study - Reinforcement Learning
+CS-0193 Directed Study - Randomness and Computation
+CS-0193 Directed Study - Human-AI Interaction
+CS-0193 Directed Study - Matrix Multi & Graph Algor
+CS-0195 Cybersecurity Clinic I
+CS-0196 Cybersecurity Clinic II
+CS-0197 Honors Thesis-computer Science A
+CS-0197 Honors Thesis B
+CS-0203 How Systems Fail
+CS-0250 Advanced Special Topics - Seminar in Comp Metablomics
+CS-0288 Master of Science Capstone Project I
+CS-0289 Master of Science Capstone Project II
+CS-0291 Seminar in Computer Science
+CS-0293 Master's Project
+CS-0296 Masters Thesis
+CS-0297 Dissertation Research
+CS-0299 Internship In Computer Science
+CS-0401 Masters Degree Continuation
+CS-0402 Masters Degree Continuation
+CS-0404 Graduate Engineering Co-op
+CS-0405 Grad Teaching Assistant
+CS-0406 Grad Research Assistant
+CS-0501 Doctoral Degree Continuation
+CS-0502 Doctoral Degree Continuation
+CSHD-0001 Introduction to Child Study and Human Development
+CSHD-0034 Children, Nature, and the Development of Earth Stewards
+CSHD-0042 Inquiry and Analysis in Child Study and Human Development
+CSHD-0044 Senior Thesis Workshop
+CSHD-0062 Childhood Across Culture
+CSHD-0066 Self & Identity: Negotiating Place in Communities
+CSHD-0099 Community Field Placement
+CSHD-0109 Autism Across the Lifespan
+CSHD-0120 Assessment of Children
+CSHD-0124 American Sign Language I
+CSHD-0125 American Sign Language II
+CSHD-0126 American Sign Language III
+CSHD-0140 Introductory Statistics for Developmental Science
+CSHD-0141 Independent Study
+CSHD-0141 Independent Study - MA Capstone
+CSHD-0141 Independent Study - Ped. Urgent Care and Surgery
+CSHD-0141 Independent Study - Art Therapy for Bereavmt. Work
+CSHD-0141 Independent Study - Therap Ped Interv in Hospitals
+CSHD-0141 Independent Study - Capstone in Trans Youth Policy
+CSHD-0141 Independent Study - Multilevel Modeling
+CSHD-0141 Independent Study - Applied Research - Infant Dev
+CSHD-0141 Independent Study - Inclusion and Belonging
+CSHD-0141 Independent Study - Internet Addiction II
+CSHD-0142 Research Methods and Design for Developmental
+CSHD-0143 Special Topics - Children Arts and Media
+CSHD-0143 Special Topics - Exploring Deaf Communities
+CSHD-0149 Evidence-Based Interventions with Children and Youth
+CSHD-0153 Children's Television Project Research Lab
+CSHD-0155 Development Of Language
+CSHD-0161 Advanced Personal-Social Development
+CSHD-0165 Family-School Connections in a Global Society
+CSHD-0168 Adolescent Development And The Transition To Adulthood
+CSHD-0169 Creating Children’s Media
+CSHD-0175 Introduction to Art Therapy
+CSHD-0176 Children's Literature
+CSHD-0179 Child Art
+CSHD-0182 Social Policy For Children And Families
+CSHD-0183 Youth Activism, Civic Identity, & Moral Development
+CSHD-0185 Promoting Positive Youth Development: Applying Developmental Science In The Community
+CSHD-0186 Homelessness In America
+CSHD-0189 Human-Animal Interaction in Childhood and Adolescence
+CSHD-0190 Disability and Difference in Children
+CSHD-0193 Pediatric Psychology
+CSHD-0195 Developmental Disorders In Language And Reading
+CSHD-0196 Contemporary Families in the 21st Century
+CSHD-0198 Senior Honors Thesis A
+CSHD-0198 Senior Honors Thesis B
+CSHD-0199 Community Field Placement
+CSHD-0201 Doctoral Pro Seminar B
+CSHD-0203 Graduate Internship Seminar B
+CSHD-0204 Master's Thesis Workshop
+CSHD-0234 Children, Nature, and the Development of Earth Stewards
+CSHD-0237 Doctoral Internship
+CSHD-0238 Teaching Internship
+CSHD-0241 Directed Research
+CSHD-0244 Special Topics
+CSHD-0246 Thesis
+CSHD-0247 Program Evaluation
+CSHD-0249 Applied Regression Analysis for Developmental Science
+CSHD-0262 Cultural Sensitivity In Child And Family Research/practice
+CSHD-0298 Doctoral Dissertation
+CSHD-0401 Masters Degree Continuation - Masters PT Continuation
+CSHD-0402 Masters Degree Continuation - Masters Full-Time Continuation
+CSHD-0405 Grad Teaching Assistant
+CSHD-0406 Grad Research Assistant
+CSHD-0501 Doctoral Degree Continuation - Doctoral PT Continuation
+CSHD-0502 Doctoral Degree Cont - Doctoral FT Continuation
+CST-0094 Special Topics - Global Indigenous Film & Media
+CST-0094 Special Topics - Colonial Schooling in Comparat
+CST-0094 Special Topics - Intro to Africana Studies
+CST-0094 Special Topics - Introduction to Latinx Studies
+CST-0168 Anthropology of Colonialism / Decolonizing Anthropology
+CST-0193 Independent Study
+CST-0194 Special Topics - Histories of Race, Contagion
+CVS-0014 Introduction To Ethics
+CVS-0017 War and Terrorism
+CVS-0019 Religion and Ethics
+CVS-0031 Dissent and Democracy: American Literature to 1900
+CVS-0032 Children, Nature, and the Development of Earth Stewards
+CVS-0035 Social Psychology
+CVS-0041 Intermediate Journalism
+CVS-0046 Social-Emotional & Civic Learning in Schools
+CVS-0047 Online Video: Algorithms, Creators & Social Impact
+CVS-0051 Special Topics - Civic Life Ambass. Practicum
+CVS-0051 Special Topics - Civic Life Ambass. Practicum
+CVS-0051 Special Topics - Technology, Leadership & Collective Learning
+CVS-0051 Special Topics - Community Murals in Medford
+CVS-0051 Special Topics - Generous Listening: Framework & Method
+CVS-0052 Western Political Thought II
+CVS-0060 Media, Culture, and Society
+CVS-0061 Introduction To International Relations
+CVS-0081 Future of Global Institutions (EPIIC) - Africa in the World
+CVS-0083B Civic Identity, Reflection, & Action: Tisch Scholars Foundation Seminar B
+CVS-0084 Tisch Scholars Fieldwork Practicum
+CVS-0085 Performance for Social Change
+CVS-0099 Internship-Social Change
+CVS-0099 Internship-Social Change - Justice Studies
+CVS-0111 Environmental Justice And World Literature
+CVS-0112 Sociological Theory
+CVS-0117 Religion, Violence and Sexuality
+CVS-0118 Seminar: Hannah Arendt
+CVS-0119 Who Owns the Past? Art, Heritage, and Global Conflicts
+CVS-0124 Environmental Sociology
+CVS-0132 Family-School Connections in a Global Society
+CVS-0133 Topics In Economic Development
+CVS-0143 Self & Identity: Negotiating Place in Communities
+CVS-0149 Societal Aspects of Design: Integration, Innovation, and Impact
+CVS-0151 Special Topics - Civic Knowledge
+CVS-0151 Special Topics - Africa's Global Politics
+CVS-0151 Special Topics - Risk and Resilience
+CVS-0151 Special Topics - Generous Listening & Dialogue
+CVS-0151 Special Topics - Understanding U.S. Healthcare
+CVS-0151 Special Topics - Beyond the Wall: Writing, Educ
+CVS-0151 Special Topics - Storytelling for Social Change
+CVS-0151 Special Topics - Community Co-Creation Lab
+CVS-0151 Special Topics - Boston Soundscapes and Music
+CVS-0151 Special Topics - Pol Viol State & Society
+CVS-0151 Special Topics - Decoding State Government and Politics
+CVS-0151 Special Topics - Democracy and its Alternatives
+CVS-0155 Promoting Positive Youth Development: Applying Developmental Science In The Community
+CVS-0161 Homelessness In America
+CVS-0175 Social Justice, Advocacy, and Music
+CVS-0184 Creating Children’s Media
+CVS-0186 Spanish In The Community
+CVS-0187 Entrepreneurship for Social Impact
+CVS-0189 Issues In American Public Policy
+CVS-0190 Capstone Seminar - Comm for Social Change
+CVS-0197 Tisch Scholars Senior Capstone (Thesis option)
+CVS-0198 Tisch Scholars Senior Capstone
+DATA-0100 Introduction to Data Analytics
+DATA-0202 Database Design and SQL
+DATA-0220 Communicating with Data
+DATA-0296 Capstone Internship Full-Time
+DATA-0297 Special Topics - Deep Learning for Multimodal AI
+DATA-0297 Special Topics - Healthcare Analytics
+DATA-0298 Independent Study
+DATA-0299 Internship
+DATA-0401 Masters Degree Continuation: Part-Time
+DATA-0402 Masters Degree Continuation: Full-Time
+DATA-0405 Grad Teaching Assistant
+DATA-0406 Grad Research Assistant
+DEIJ-0213 Developing Sustainable Communities
+DEIJ-0247 Diversity and Inclusion Leadership
+DEIJ-0249 The Laws, Policies, Politics & Ethics of Diversity, Equity and Inclusion
+DEIJ-0254 Negotiation, Mediation, And Conflict Resolution
+DEIJ-0255 Intergroup Dialogue Facilitation
+DEIJ-0256 Research in Action
+DEIJ-0261 Research Methods and Design for Developmental
+DEIJ-0263 Critical Educational Policy Studies
+DEIJ-0273 Introductory Statistics for Developmental Science
+DEIJ-0275 Introduction To Geographic Information Systems
+DEIJ-0276 Applied Regression Analysis for Developmental Science
+DEIJ-0297 Final Project
+DEIJ-0298 Final Project
+DEIJ-0299 Independent Study - Learning Design & Planning
+DEIJ-0299 Independent Study - Sharing Practitioner Perspectives
+DEIJ-0401 Masters Degree Continuation
+DEIJ-0402 Masters Degree Cont.
+DH-0101 Introduction to Digital Humanities
+DH-0118 Uncovering the Past: Historical Soc in Digital Age
+DH-0130 Natural Language Processing and the Human Record
+DIG-0005 Introduction to Digital Media
+DIG-0102 The Art of the Fake
+DIG-0140 Thinking Machines and Automata
+DIG-0142 Poetic Data
+DIG-0144 Programming for Visual Thinkers
+DIG-0150 Virtual Reality
+DIG-0153 America Imaginaria
+DIG-0193 Special Topics - Digital Theatre: Live Animation& Prfrmnc Arts Stu
+DNC-0013 Ballet II
+DNC-0015 Ballet IV
+DNC-0021 Modern I
+DNC-0023 Modern III
+DNC-0030 Hip Hop: Introduction to Breakin' Culture/Practice
+DNC-0032 Hip Hop II: Study Through the Cypher
+DNC-0035 Contemporary Jazz Dance
+DNC-0039 Tap Dance II
+DNC-0042 Afro-Haitian Dance
+DNC-0047 Kathak Storytelling
+DNC-0060 Dance Production Practicum
+DNC-0061 Dance Performance Practicum
+DNC-0067 Latin Social Dance
+DNC-0071 Dance Movement And Creative Process
+DNC-0077 Dance on Camera
+DNC-0085 Dance and the Hollywood Musical
+DNC-0177 Dance on Camera
+DNC-0191 Advanced Dance Studies
+DNC-0192 Dance Research Project
+DRW-0023 Mindful Drawing
+DRW-0035 Drawing Foundation
+DRW-0051 Introduction to Figure Drawing
+DRW-0065 Inter. Drawing: Abstraction, Process
+DRW-0168 Inter. Drawing: Field Notes
+DRW-0191 Special Topics - Intermediate Drawing: Abstraction, Process
+DRWM-0003 Art As Process
+DRWM-0026 Drawing: Foundation
+DRWM-0027 Drawing: Mixed Media
+DRWM-0035 Figure Drawing
+DS-0098 Senior Capstone Project in Data Science II
+DS-0143 Data Science for Sustainability
+DS-0153 Special topics in Computational and Theoretical Aspects of Data Science. - Anonymous Communications Theory
+DS-0153 Special topics in Computational and Theoretical Aspects of Data Science. - Generative AI for Social Impact
+DS-0153 Special topics in Computational and Theoretical Aspects of Data Science. - Multi-Agent Systems
+DS-0153 Special topics in Computational and Theoretical Aspects of Data Science. - Special Topics in Quantum Info
+DS-0153 Special topics in Computational and Theoretical Aspects of Data Science. - Artificial Agents & Auto
+DS-0153 Special topics in Computational and Theoretical Aspects of Data Science. - Sports Analytics
+DS-0153 Special topics in Computational and Theoretical Aspects of Data Science. - MITRE eCTF
+DS-0193 Directed Study
+DS-0288 Master of Science Capstone Project I
+DS-0289 Master of Science Capstone Project II
+DS-0293 Masters Project in Data Science
+DS-0299 Internship In Data Science
+DS-0404 Graduate Engineering Co-op
+EC-0003 Financial Accounting
+EC-0005 Principles Of Economics
+EC-0008 Principles Of Economics With Environmental Applications
+EC-0009 Review of Economic Principles with Environmental Applications
+EC-0011 Intermediate Microeconomic Theory
+EC-0012 Intermediate Macroeconomic Theory
+EC-0013 Statistics
+EC-0014 Statistics for Quantitative Economics
+EC-0015 Basic Econometrics
+EC-0016 Foundations of Quantitative Economics
+EC-0017 Review of Statistics for Quantitative Economics
+EC-0018 Quantitative Intermediate Macroeconomic Theory
+EC-0019 Review Of Quantitative Macroeconomic Theory
+EC-0024 Game Theory
+EC-0030 Environmental Economics
+EC-0035 Economic Development
+EC-0048 Health Economics
+EC-0050 Introduction to Finance
+EC-0060 International Economics
+EC-0090 Applied Economics Independent Study - Independent Study
+EC-0091 Introductory Selected Topics - Econ Of Pub Policy
+EC-0093 Research Assistantship
+EC-0107 Econometric Analysis
+EC-0108 Applications Of Econometrics
+EC-0109 Review Of Econometric Analysis
+EC-0114 Behavioral Economics
+EC-0118 Quantitative Economic Growth
+EC-0119 Quantitative Games & Information
+EC-0127 Urban Economics
+EC-0130 Topics In Environmental Economics
+EC-0136 Topics In Economic Development - Topics In Economic Development
+EC-0149 Economics of Sports
+EC-0150 Financial Economics
+EC-0151 Monetary Economics
+EC-0155 Sustainable Finance and Investment
+EC-0157 Topics in Finance and Entrepreneurship
+EC-0161 International Trade
+EC-0162 International Finance
+EC-0179 Law And Economics
+EC-0190 Independent Study - Independent Study
+EC-0192 Advanced Seminar - Ec of Innovat & Energy
+EC-0196 Senior Honors Thesis B
+EC-0198 Senior Thesis
+EC-0202 Econometrics
+EC-0204 Microeconomic Theory II
+EC-0206 Macroeconomic Theory II
+EC-0212 Research Methods Seminar II
+EC-0217 Research Seminar II
+EC-0237 Doctoral Seminar in Research Approaches and Methods
+EC-0290 Independent Study - Independent Study
+EC-0294 Special Topics - Special Topics
+EC-0296 Thesis
+EC-0298 Doctoral Dissertation
+EC-0299 Workshop in Empirical Economics
+EC-0402 Masters Degree Continuation
+EC-0405 Grad Teaching Assistant
+EC-0406 Grad Research Assistant
+EC-0502 Doctoral Continuation Course
+ECS-0003 Introduction to Climate Science
+ECS-0007 Dinosaurs!
+ECS-0015 Mass Extinctions: The Past, Present, and Future of Biodiversity
+ECS-0044 Geochemical Cycles
+ECS-0052 Paleoclimate
+ECS-0058 The Cryosphere
+ECS-0062 Climate Modeling
+ECS-0092 Research in Earth and Climate Sciences
+ECS-0101 Python I
+ECS-0102 Python II
+ECS-0103 Programming with R
+ECS-0192 Special Topics - Independent Study
+ECS-0192 Special Topics - Natural Disasters in the Movies
+ECS-0193 Senior Thesis A
+ECS-0194 Senior Thesis B
+ECS-0258 The Cryosphere
+ECS-0262 Climate Modeling
+ED-0001 School & Society
+ED-0010 Teaching and Learning in K-12 History and Social Studies
+ED-0013 The Global Educator: Education in Post Colonial Africa
+ED-0015 Social-Emotional & Civic Learning in Schools
+ED-0020 Seminar for Learning Assistants in STEM
+ED-0034 Children, Nature, and the Development of Earth Stewards
+ED-0092 Special Topics - Ind Study: Identify Work Science Class
+ED-0092 Special Topics - Colonial Schooling in Comparat
+ED-0092 Special Topics - Reimagine Immigrant Education
+ED-0102 Supervised Teaching In The Middle And Secondary School
+ED-0120 Practice Of Teaching: History And Political Science/political Philosophy
+ED-0121 Practice Of Teaching: Science
+ED-0122 Practice Of Teaching Mathematics
+ED-0123 Practice Of Teaching English
+ED-0124 Practices Of Teaching Language
+ED-0125 Curriculum And Practice Of Teaching: Latin And Classical Humanities
+ED-0140 Behavior Management In The Classroom
+ED-0145 Family-School Connections in a Global Society
+ED-0160 Post-Colonial Theories in Education
+ED-0170 Critical Educational Policy Studies
+ED-0176 Internship
+ED-0192 Special Topics - Independent Study
+ED-0192 Special Topics - Project Based Learn in Schools
+ED-0192 Special Topics - Cultural & Crit Persp STEM Ed & Health
+ED-0192 Special Topics - Critical Qualitative Methods
+ED-0192 Special Topics - IRLI Journal Club
+ED-0192 Special Topics - Exploring Deaf Communities
+ED-0192 Special Topics - ABA in Practice
+ED-0192 Special Topics - Graduate Writing Seminar STEM
+ED-0192 Special Topics - Ind Study: Emerging Epist Biochem
+ED-0192 Special Topics - Ind Study: Reimagining Immigrant Ed
+ED-0196 Senior Honors Thesis B
+ED-0197 Senior Capstone
+ED-0221 Pre-Practicum Seminar
+ED-0223 Mste Proseminar
+ED-0232 Practicum In School Psychology
+ED-0233 School Psychology Professional Writing Development
+ED-0236 School Based Mental Health
+ED-0244 Assessment And Intervention For Learning Problems In The Classroom
+ED-0246 Social, Emotional, And Behavioral Assessment
+ED-0254 Developmental Psychopathology In Educational Settings
+ED-0255 Professional Practice, Ethics, And The Law In School Psychology
+ED-0256 School-based Consultation
+ED-0258 Advanced Internship In School Psychology
+ED-0276 Internship
+ED-0281 Museum Education for K – 12 Audiences
+ED-0282 Proseminar In Museum interpretation
+ED-0284 Museum Practicum
+ED-0290 Qualifying Paper I
+ED-0292 Special Topics - Ind Study: Master’s Capstone Project
+ED-0294 Research Paper
+ED-0296 Thesis
+ED-0297 Doctoral Dissertation
+ED-0298 Doctoral Dissertation
+ED-0299 Qualifying Paper II
+ED-0401 Masters Continuation
+ED-0402 Masters Continuation
+ED-0405 Grad Teaching Assistant
+ED-0406 Grad Research Assistant
+ED-0501 Doctoral Continuation - Part Time
+ED-0502 Doctoral Continuation - Full Time
+EDS-0122 Inclusive Practices in Art Education
+EDS-0173 Seminar In Student Teaching In Art, Grades Pre-k - 8
+EDS-0174 Seminar In Student Teaching In Art, Grades 5-12
+EDS-0176 Art Education Curriculum, Pre-k-8
+EDS-0178 Art Education Curriculum, 5-12
+EE-0014 Embedded Systems
+EE-0021 Electronics I W/lab
+EE-0022 Electronics II W/lab
+EE-0023 Linear Systems
+EE-0024 Probabilistic Systems Analysis
+EE-0098 Senior Design Project II - Part 2
+EE-0099 Undergraduate Internship In Electrical Engineering
+EE-0100 Design Of Medical Instrumentation
+EE-0104 Probabilistic Systems Analysis
+EE-0107 Communications Systems
+EE-0109 Convex Optimization
+EE-0114 Physics of Solar Cells
+EE-0115 Nanophotonics
+EE-0128 Operating Systems
+EE-0137 Radar Engineering
+EE-0140 Machine Learning via Sequential Interaction
+EE-0141 Trusted and Responsible AI
+EE-0144 Introduction to RFID and IoT
+EE-0147 Analog And Mixed Signal Mos Integrated Circuit Design
+EE-0155 Parallel Computing
+EE-0156 Advanced Topics In Computer Architecture
+EE-0166 Digital IC Design
+EE-0180 Wearable System Design
+EE-0182 Product & Market Design - Imagination & Creativity
+EE-0185 Societal Aspects of Design: Integration, Innovation, and Impact
+EE-0192 Electrical Engineering Seminar
+EE-0193 Special Topics - Optics
+EE-0197 Honors Thesis
+EE-0199 Internship
+EE-0294 Master's Project
+EE-0296 Master's Thesis
+EE-0298 Doctoral Thesis
+EE-0401 Masters Degree Continuation
+EE-0402 Masters Degree Continuation
+EE-0404 Graduate Engineering Co-op
+EE-0405 Grad Teaching Assistant
+EE-0406 Grad Research Assistant
+EE-0501 Doctoral Degree Continuation
+EE-0502 Doctoral Degree Continuation
+EM-0051 Engineering Management
+EM-0052 Technical & Managerial Communication
+EM-0054 Engineering Leadership
+EM-0062 Project Management and Engineering Economics
+EM-0153 Management Of Innovation
+EM-0193 Special Topics in Engineering Management - Business Essentials
+EM-0201 Essentials of Technology Strategy
+EM-0202 Leadership: Personal Development
+EM-0203 Building Financial Intelligence
+EM-0204 Customer Discovery and Solution Design
+EM-0205 Milestone Project: New Product & Service Development
+EM-0205 Milestone Project: New Product & Service Development
+EM-0206 Introduction to Data Analytics
+EM-0207 Solving Complex Problems through Systems Thinking
+EM-0207 Solving Complex Problems through Systems Thinking
+EM-0208 Program and Project Management
+EM-0209 Essentials of Strategic Management
+EM-0210 Practice of Ethical Leadership
+EM-0211 Lean Six Sigma
+EM-0212 Applied Data Science
+EM-0222 Modern Product Management
+EM-0223 Advanced Topics In Product Management
+EM-0232 Supply Chain and Operations Management
+EM-0253 Innovation and Technology Strategy
+EM-0272 Immersive Experience - Leadership
+EM-0281 Capstone Innovation and Leadership Project
+EM-0282 Capstone Leadership Project
+EM-0293 Special Topics in Engineering Management - Leadership: Drvng&Mgng Change
+EM-0293 Special Topics in Engineering Management - Managing Technology-Based Orgs in the 21st Century
+EM-0298 Internship
+EM-0401 Masters Continuation - Part Time
+EM-0402 Masters Degree Continuation
+EM-0404 Graduate Engineering Co-op
+EN-0001 Applications in Engineering - Intro to Renewable Energy
+ENE-0090 Engineering Education Field Experience
+ENE-0193 Special Topics in Engineering Education - Graduate Engineering Teaching Training - Part II
+ENE-0193 Special Topics in Engineering Education - Grad Eng Teaching Training - Supervised Teaching
+ENG-0001 Expository Writing
+ENG-0002 Freshman Writing Seminar - Differences
+ENG-0002 Freshman Writing Seminar - Conformity and Rebellion
+ENG-0002 Freshman Writing Seminar - Other Worlds
+ENG-0002 Freshman Writing Seminar - Other Worlds
+ENG-0002 Freshman Writing Seminar - Conformity and Rebellion
+ENG-0002 Freshman Writing Seminar - Conformity and Rebellion
+ENG-0002 Freshman Writing Seminar - Digital Media Cultures
+ENG-0002 Freshman Writing Seminar - Digital Media Cultures
+ENG-0002 Freshman Writing Seminar - Perceiving Environment
+ENG-0002 Freshman Writing Seminar - Love and Sexuality
+ENG-0002 Freshman Writing Seminar - Perceiving Environment
+ENG-0002 Freshman Writing Seminar - Asian American Perspectives
+ENG-0002 Freshman Writing Seminar - Love and Sexuality
+ENG-0002 Freshman Writing Seminar - Perceiving Environment
+ENG-0002 Freshman Writing Seminar - Conformity and Rebellion
+ENG-0002 Freshman Writing Seminar - Differences
+ENG-0002 Freshman Writing Seminar - Perceiving Environment
+ENG-0003 Reading, Writing, Research
+ENG-0004 Writing Seminar - Road Stories
+ENG-0004 Writing Seminar - Family Ties
+ENG-0004 Writing Seminar - Other Worlds
+ENG-0005 Creative Writing: Fiction
+ENG-0006 Creative Writing: Poetry
+ENG-0007 Creative Writing: Journalism
+ENG-0008 Topics in Creative Writing - Writing About Music
+ENG-0010 Creative Non-Fiction Writing
+ENG-0011 Intermediate Journalism
+ENG-0013 Writing Fiction: Advanced
+ENG-0014 Topics in Fiction Writing - Starting a Novel
+ENG-0016 Writing Poetry: Advanced
+ENG-0017 Topics in Poetry Writing - CYBORG! Science Fiction Poetry
+ENG-0022 British & Irish Lit, Romantic to Post-Colonial
+ENG-0023 Dissent and Democracy: American Literature to 1900
+ENG-0038 First African American Writers
+ENG-0042 Hemingway, Fitzgerald, Faulkner
+ENG-0058 Short Fiction
+ENG-0059 The Paranoid Imagination
+ENG-0069 Contemporary Multi-ethnic Literature
+ENG-0082 Political Cinema
+ENG-0092 Topics In Literature And Culture - Poetry and Decolonization
+ENG-0092 Topics In Literature And Culture - Women of Color Memoir
+ENG-0107 Chaucer
+ENG-0108 Virgil And Dante
+ENG-0112 Topics In Shakespeare - Hamlet
+ENG-0114 Milton
+ENG-0123 Frankenstein's Sisters: Austen & Shelley
+ENG-0157 Poets On Poetry
+ENG-0160 Environmental Justice And World Literature
+ENG-0182 American Gothic
+ENG-0186 How Films Think
+ENG-0192 Seminar In English - Playtexts: Video Games & Lit
+ENG-0192 Seminar In English - James Baldwin: Revolutionary
+ENG-0194 Directed Independent Study - Graduate Level Fiction Writing
+ENG-0194 Directed Independent Study - Environment & Global Eng. Lit
+ENG-0194 Directed Independent Study - Between Madness & Divinity
+ENG-0199 Senior Honors Thesis B
+ENG-0288 Graduate Colloquium
+ENG-0292 Graduate Seminar - Gender, Race, and Marx
+ENG-0292 Graduate Seminar - The Renaissance of Tragedy
+ENG-0294 Independent Study - Fanon Psychopoetics of Love
+ENG-0298 Graduate Research
+ENG-0405 Graduate Instructor
+ENG-0502 Doctoral Degree Continuation, Full-time
+ENP-0028 Philosophy of Technology
+ENP-0053 Engineering Psychology
+ENP-0064 Methods for Human Factors Engineering
+ENP-0074 Project Study In Human Systems
+ENP-0094 Undergraduate Research
+ENP-0099 Internship In Engineering Psychology
+ENP-0108 Assistive Technology Innovations
+ENP-0109 Medical Technology Development
+ENP-0111 Use-Related Risk Management
+ENP-0112 Engineering Forensics
+ENP-0161 Human Factor Product Design
+ENP-0162 Human-machine System Design
+ENP-0163 Analytical Methods In Human Factors Engineering
+ENP-0164 Applied Behavioral Statistics for Engineering
+ENP-0165 Industrial Design
+ENP-0166 Computer Interface Design
+ENP-0193 Special Topics - Ethics of Product Design
+ENP-0220 Masters Capstone
+ENP-0294 Master's Project
+ENP-0296 Thesis
+ENP-0299 Graduate Internship in Human Factors
+ENP-0401 Master's Degree Continuation
+ENP-0402 Master's Degree Continuation
+ENT-0010 Preparing New and Aspiring Leaders
+ENT-0011 Mastering Money: Developing Financial Literacy
+ENT-0013 Essentials of Marketing
+ENT-0015 Living a Life with Purpose
+ENT-0100 Creativity, Innovation and Entrepreneurial Thinking
+ENT-0101 Entrepreneurship And Business Planning
+ENT-0103 Entrepreneurial Finance
+ENT-0105 Entrepreneurial Marketing
+ENT-0107 Entrepreneurial Leadership
+ENT-0109 Societal Aspects of Design: Integration, Innovation, and Impact
+ENT-0112 Vocal Arts for Personal and Professional Life
+ENT-0141 Entrepreneurship for Social Impact
+ENT-0161 Consumer Product Ventures
+ENT-0162 Bringing Products to Market
+ENT-0164 Introduction to Making
+ENT-0193 Special Topics - Business Essentials
+ENT-0193 Special Topics - Starting a Small Business
+ENT-0194 Special Topics - Inside the Classroom
+ENT-0198 Entrepreneurial Internship
+ENT-0199 Entrepreneurial Fieldstudy
+ENV-0001 Introduction to Environmental Studies
+ENV-0005 Environmental Studies Lecture Series
+ENV-0007 Global Change Biology
+ENV-0027 Public Health Engineering
+ENV-0034 Children, Nature, and the Development of Earth Stewards
+ENV-0035 Ancient Natural Disasters
+ENV-0082 Imagining the Environment in German Literature
+ENV-0095 Special Topics - Ecotopias
+ENV-0099 Environmental Internship
+ENV-0106 Nature and the Environment in Greek Mythology
+ENV-0107 Introduction to Geographic Information Systems
+ENV-0111 Global Environmental History
+ENV-0114 Environmental Sociology
+ENV-0120 Introduction to Environmental Fieldwork: From Classroom to Community
+ENV-0130 Animal Behavior
+ENV-0135 Environmental Policy - Linking US and Global Politics
+ENV-0135 Environmental Policy - U.S. Challenges and Solutions
+ENV-0143 Evolutionary Biology
+ENV-0153 The Deep History of Climate Adaptation
+ENV-0158 Occupational & Environmental Health
+ENV-0160 Environmental Justice And World Literature
+ENV-0162 Global Water Systems: Science & Policy
+ENV-0184 Environmental Health & Justice
+ENV-0187 Environmental Law
+ENV-0188 Impact Investing for Catalytic Impact: Filling Capital Gaps
+ENV-0190 Practicing in Food Systems
+ENV-0191 Environmental Studies Capstone
+ENV-0192 Food Minor Practicum
+ENV-0192 Food Minor Practicum - GEMS-P: Glucose Empowerment
+ENV-0192 Food Minor Practicum - Diet, Nutrition, and Osteoporo
+ENV-0195 Selected Topics - Lawns, Monocultures, & Commons
+ENV-0197 Advanced Geographic Information Systems
+ENV-0198 Directed Research
+ENV-0198 Directed Research - Strategic Electrification Tufts
+ENV-0198 Directed Research - Just Sustainabilities
+ENV-0198 Directed Research - Agricultural Cooperatives
+ENV-0198 Directed Research - Water Scarcity, Climate Change
+ENV-0198 Directed Research - Assessing the Effectiveness of
+ENV-0199A Senior Honors Thesis A
+ENV-0199A Senior Honors Thesis A - Animals, Medicine, and the Eth
+ENV-0265 Corporate Management Of Environmental Issues
+ENV-0284 Developing Sustainable Communities
+ES-0002 Introduction To Computing In Engineering
+ES-0007 Thermodynamics
+ES-0009 Applied Mechanics (strength Of Materials)
+ES-0010 Introduction To Materials Science
+ES-0018 Computer Aided Design w/ Lab
+ES-0019 Computer Aided Product Design
+ES-0055 Numerical Methods
+ES-0056 Probability And Statistics
+ES-0085 Professional Preparation for Cooperative Education
+EXP-0001 Experimental College - Autobiographical Comics
+EXP-0002 Experimental College - Racism in the Legal System
+EXP-0003 Experimental College - Dogs: A Critical Exploration
+EXP-0004 Experimental College - The Science in SciFi
+EXP-0005 Experimental College - Fashion Photography
+EXP-0006 Experimental College - Demystifying the Law
+EXP-0007 Experimental College - Black Superwomen
+EXP-0008 Experimental College - Loneliness: A Writing Workshop
+EXP-0009 Experimental College - Archaeology and Tragedy
+EXP-0010 Experimental College - The Design of Good Taste
+EXP-0011 Experimental College - Retreat: Renewal & Resistance
+EXP-0012 Experimental College - Social Media Trust & Safety
+EXP-0013 Experimental College - Neurodiversity in Lit & Life
+EXP-0014 Experimental College - Reimagine Immigrant Education
+EXP-0015 Experimental College - Food Media
+EXP-0016 Experimental College - AI, Society & the Workplace
+EXP-0017 Experimental College - Pain
+EXP-0018 Experimental College - Friendships & Other Intimacies
+EXP-0051 Experimental College - Psychology of Peak Performance
+EXP-0052 Experimental College - Narrative Medicine
+EXP-0053 Experimental College - Mad Men & American Identity
+EXP-0054 Experimental College - Imperfection in Music
+EXP-0055 Experimental College - Business of Drug Development
+EXP-0056 Experimental College - Brazilian Forró Dance
+EXP-0057 Experimental College - Intro to Letterpress Printing
+EXP-0063 Experimental College - Sustainable Spring
+EXP-0065 Experimental College - Thesis Workshop
+EXP-0067 Experimental College - Financial Literacy
+EXP-0068 Experimental College - Designing Your Career Journey
+EXP-0070 Experimental College - Parchment to Print: Special Collections Workshop
+EXP-0101 Experimental College - Peer Teaching
+EXP-0103 Experimental College - Theory & Practice of Partic Ed
+EXP-0104 Teaching Assistants Workshop - Teaching Assistant Workshop
+EXP-0105 Independent Study - Independent Study
+EXP-0105 Independent Study - Independent Study
+EXP-0106 Auditing For Breadth - Auditing For Breadth
+EXP-0112 Experimental College - Publishing The Tufts Daily
+FIB-0102 Introduction to Fibers
+FIB-0105 Sculptural Knitting
+FIB-0160 Intermediate Fibers Studio
+FIB-0191 Special Topics - Quilting Reimagined
+FMS-0001 Art of the Moving Image
+FMS-0006 Television History
+FMS-0010 Film and Media Production I
+FMS-0010 Film and Media Production I - First-year and Sophomore
+FMS-0014 From Script to Screen
+FMS-0019 Experimental Filmmaking: Concept to Practice
+FMS-0020 Screenwriting I
+FMS-0021 Screenwriting II
+FMS-0023 TV Writing: Pitch to Script
+FMS-0024 Acting for the Camera
+FMS-0026 Dance & the Hollywood Musical
+FMS-0027 Dance on Camera
+FMS-0028 Scene Design
+FMS-0030 Creative Writing: Journalism
+FMS-0031 Intermediate Journalism
+FMS-0035 Art and Business of Crafting Media Campaigns
+FMS-0037 Online Video: Algorithms, Creators & Social Impact
+FMS-0043 Media, Culture, and Society
+FMS-0049 Political Cinema
+FMS-0056 Music on Film; Film on Music
+FMS-0057 Latinx Theatre and Film
+FMS-0060 Global Indigenous Film & Media
+FMS-0067 World War II on Film
+FMS-0078 Japanese Film
+FMS-0079 German Film
+FMS-0088 The Horror Film
+FMS-0093 Practicum in Film and Media Production - Film Festival
+FMS-0094 Special Topics - Post-Production: Sound+Color
+FMS-0094 Special Topics - Laughter, Politics, Media
+FMS-0094 Special Topics - Individualism and Nonconformity in Film
+FMS-0095 Creative Careers and Artistic Life Seminar
+FMS-0099 FMS Media Internship - 4 Credits
+FMS-0099 FMS Media Internship - 2 Credits
+FMS-0099 FMS Media Internship - FMS Winternship: 1 credit
+FMS-0103 Journalisms and Freedoms of Expression
+FMS-0125 Jewish Experience On Film
+FMS-0141 Creating Children’s Media
+FMS-0150 Advanced Documentary Production
+FMS-0160 Branding: Theory and Practice
+FMS-0186 How Films Think
+FMS-0188 The Horror Film
+FMS-0194 Special Topics - Media Futures Lab
+FMS-0195 Directed Study
+FMS-0195 Directed Study - Adv Doc
+FMS-0195 Directed Study - Advanced Documentary
+FMS-0199 Senior Honors Thesis 2 - Production Projects
+FMS-0199 Senior Honors Thesis 2 - Written Projects
+FR-0001 Elementary French I
+FR-0002 Elementary French II
+FR-0003 Intermediate French I
+FR-0004 Intermediate French II
+FR-0021 Composition And Conversation I - Crimes et sentiments
+FR-0021 Composition And Conversation I - Diversités francophones
+FR-0021 Composition And Conversation I - Debates & Controversies
+FR-0022 Composition And Conversation II - Voyages et découvertes
+FR-0022 Composition And Conversation II - Les défis de la France contemp
+FR-0022 Composition And Conversation II - Cinéma et société
+FR-0031 Voices of France: Middle Ages to the Enlightenment
+FR-0032 Connections in French Literature and Culture
+FR-0040 The Grail Quest in Medieval French Literature
+FR-0092 Special Topics - Laughter, Politics, Media: Fra
+FR-0094 Independent Study
+FR-0139 New Narratives of the Maghreb
+FR-0146 French for International Relations
+FR-0172 Twentieth-century French Novel I
+FR-0192 Special Topics - Enchanted Ethics
+FR-0194 Independent Study
+FR-0199 Honors Thesis B
+GER-0002 Elementary German II
+GER-0004 Intermediate German II
+GER-0022 Composition and Conversation II
+GER-0068 Masterpieces of German Literature
+GER-0072 Laughing and Crying
+GER-0085 German Film
+GER-0093 Directed Study
+GER-0094 Directed Study
+GER-0096 Teaching Internship
+GER-0182 Imagining the Environment in German Literature
+GER-0185 German Film
+GER-0193 Advanced Directed Study
+GER-0194 Advanced Directed Study
+GER-0196 Teaching Internship
+GER-0199 Senior Honors Thesis B
+GIS-0101 Introduction To Geographic Information Systems
+GIS-0102 Advanced Geographic Information Systems
+GIS-0103 Introduction to Remote Sensing
+GIS-0110 Python I
+GIS-0111 Python II
+GIS-0112 Programming with R
+GIS-0201 Introduction To Geographic Information Systems
+GIS-0202 Advanced Geographical Information Systems
+GIS-0203 Spatial Statistics
+GRA-0032 Book Arts: Chapter 1
+GRA-0112 Creative Activism: Emerg Tech
+GRA-0114 Graphic Arts Toolbox
+GRA-0123 Narrative in Sequential Art
+GRA-0125 Environmental Graphic Design
+GRA-0126 Design for Social Change
+GRA-0128 Imagining Exhibition Design
+GRA-0132 Type as Image
+GRA-0135 Graphic Novel: History & Craft
+GRA-0137 Web Art: Culture & Practice
+GRA-0184 Artist’s Books: The Portrait
+GRA-0191 Special Topics - Branding and Visual Identity
+GRA-0191 Special Topics - Picture Books
+GRA-0191 Special Topics - Type in Motion
+GRK-0002 Elementary Ancient Greek II - Intro Ancient Greek 2nd sem
+GRK-0112 Elementary Ancient Greek II
+GRK-0120 Review and Readings - Greek Prose
+GRK-0181 Greek Seminar - The Greco-Roman World & the Invention of America
+GRK-0191 Special Studies Or Seminar In Greek - GreekOratory: Law & Politics
+HAA-0004 Introduction To Arts Of Africa
+HAA-0005 Introduction To The Arts Of Asia
+HAA-0006 Early Mesopotamian Art and Architecture
+HAA-0008 Introduction To Architecture
+HAA-0019 Classical Archaeology
+HAA-0032 High Renaissance In Italy
+HAA-0059 Aesthetics
+HAA-0092 Special Topics - Cultural Interactions in Medieval Art
+HAA-0092 Special Topics - Medieval Ruins + Relics
+HAA-0092 Special Topics - Early Modern Art & Global Exch
+HAA-0092 Special Topics - French Art & Society
+HAA-0092 Special Topics - Design: Architectural II
+HAA-0092 Special Topics - Geospatial Humanities
+HAA-0095 Boston Architecture And Urbanism
+HAA-0096 Design: Architectural
+HAA-0098 Integrative Project Seminar
+HAA-0104 Greek Art And Archaeology
+HAA-0132 High Renaissance In Italy
+HAA-0164 Who Owns the Past? Art, Heritage, and Global Conflicts
+HAA-0182 Independent Studies - Hong Kong Memory Identity
+HAA-0192 Special Topics - Cultural Interactions in Medieval Art
+HAA-0192 Special Topics - Medieval Ruins + Relics
+HAA-0192 Special Topics - Early Modern Art & Global Exch
+HAA-0195 Boston Architecture And Urbanism
+HAA-0198 Undergraduate Seminar - Seminar in Latin American Art
+HAA-0198 Undergraduate Seminar - Silk Roads: Journeys in Arts
+HAA-0198 Undergraduate Seminar - Sacred Art in West Asia
+HAA-0199 Senior Honors Thesis B
+HAA-0205 Seminar in Ancient Art - Sacred Art of West Asia
+HAA-0220 Seminars In Medieval Art - Silk Roads: Journeys in Arts
+HAA-0280 Seminar In Latin American Art - Seminar in Latin American Art
+HAA-0288 Collections Care And Preventive Conservation
+HAA-0289 Museum Practicum
+HAA-0294 Qualifying Paper #2
+HAA-0296 Thesis B
+HAA-0401 Masters Degree Continuation
+HAA-0402 Masters Degree Continuation
+HAA-0405 Grad Teaching Assistant
+HAA-0406 Grad Research Assistant
+HEB-0002 Elementary Hebrew
+HEB-0004 Intermediate Hebrew
+HEB-0022 Conversation/composition
+HEB-0061 Introduction To Talmud
+HEB-0091 Special Topics - The Ancient Jewish Diaspora
+HEB-0093 Directed Study
+HEB-0094 Directed Study
+HEB-0096 Hebrew Teaching Internship
+HEB-0122 Composition And Conversation
+HEB-0136 The Story of Moses and King David
+HEB-0179 Introduction to the Zohar
+HEB-0188 Jewish Experience On Film
+HEB-0193 Advanced Directed Study
+HEB-0194 Advanced Directed Study
+HIST-0014 Africa since 1800
+HIST-0015 Global History of Christianity since the Middle Ages
+HIST-0019 Modern Latin America
+HIST-0020 Sugar and Nation in the Hispanic Caribbean
+HIST-0024 Revolutionary America, 1763-1815
+HIST-0029 Us Foreign Relations Since 1900
+HIST-0037 Civil War, Race, and Reconstruction - Race and Reconstruction
+HIST-0051 History Of Ancient Rome
+HIST-0054 Europe Since 1815
+HIST-0060 World Revolution: Global Communism
+HIST-0065 Great Britain And The British Empire
+HIST-0071 Middle East and North Africa Since WWI
+HIST-0080 Special Topics, World/transregional - The Greco-Roman World & the Invention of America
+HIST-0080 Special Topics, World/transregional - The Ancient Jewish Diaspora
+HIST-0089 Special Topics - The True Believer
+HIST-0089 Special Topics - Capstone Research
+HIST-0089 Special Topics - Life & Times of Thornton W. Burgess
+HIST-0090 Foundation Seminars, World/Transregional - Questions of Nationhood
+HIST-0093 Foundation Seminars, North America - Gender & Containment Post WWII Amer
+HIST-0096 Foundation Seminars, Europe - France in WW II
+HIST-0100 UncoveringPast:HistSocDigital
+HIST-0101 Alexander the Great: History, Myth, Legend, and Legacy
+HIST-0102 Global Environmental History
+HIST-0117 Modern East Africa
+HIST-0123 Industrial America And Urban Society: The Progressive Era To The Great Depression
+HIST-0154 Health And Healing In Medieval And Early Modern Europe
+HIST-0157 Empresses, Saints, & Scholars: The Women Of Byzantium
+HIST-0160 France & Africa Since The Eighteenth Century - Since the Eighteenth Century
+HIST-0170 Advanced Special Topics World/Transregional - The Greco-Roman World & the Invention of America
+HIST-0170 Advanced Special Topics World/Transregional - Histories of Race, Contagion, Confinement
+HIST-0176 Advanced Special Topics, Europe - European Fascism
+HIST-0179 Introduction to Geospatial Humanities
+HIST-0180 Independent Study, World/transregional - The Gill Fellows
+HIST-0180 Independent Study, World/transregional - Capstone Research
+HIST-0190 Research Seminar, World & Transregional History - The Cold War
+HIST-0199 Senior Thesis B
+HIST-0204 Colloquium in North American History
+HIST-0233 Readings in Middle Eastern History
+HIST-0233 Readings in Middle Eastern History - Early-Modern Mid East History
+HIST-0254 Studies in Europe since 1815
+HIST-0271 Studies in Middle East and North Africa since WW I
+HIST-0279 Revolutions: Theories and Histories
+HIST-0284 Exhibition Planning
+HIST-0288 History and Museum Studies MA Capstone 2
+HIST-0290 Material Culture - The Meaning of Things: Interpr
+HIST-0291 Collections Care And Preventive Conservation - Collect Care & Preser
+HIST-0292 Museum Practicum
+HIST-0294 Directed Graduate Research - Reconstructing Revolutionary Dress
+HIST-0296 Master's Thesis
+HIST-0298 Doctoral Dissertation
+HIST-0405 Grad Teaching Assistant
+HIST-0406 Grad Research Assistant
+HIST-0502 Doctoral Continuation
+IDIS-0298 Dissertation Research
+IDIS-0405 Grad Teaching Assistant
+IDIS-0406 Grad Research Assistant
+IDIS-0501 Doctoral Continuation - Part Time
+IDIS-0502 Doctoral Degree Cont.
+ILCS-0061 Translating the World
+ILCS-0062 Laughing and Crying
+ILCS-0064 Being Human: Literature & Existentialism
+ILCS-0068 Arabian Nights
+ILCS-0069 Satire in Russian and Czech Literature
+ILCS-0076 Border Crossings in Literature and Film
+ILCS-0085 World War II on Film
+ILCS-0092 Special Topics - Tarkovsky & Slow Cinema
+ILCS-0093 Directed Study
+ILCS-0094 Directed Study
+ILCS-0161 Monsters in Literature and Film
+ILCS-0193 Advanced Directed Study
+ILCS-0194 Advanced Directed Study
+ILCS-0199 Senior Honors Thesis B
+ILVS-0004 Introduction To Arts Of Africa
+ILVS-0024 Being Human: Literature & Existentialism
+ILVS-0025 Laughing and Crying
+ILVS-0027 Classical Archaeology - Civilizations of Mediterranean
+ILVS-0028 Ancient China, Korea, & Japan
+ILVS-0029 Dance on Camera
+ILVS-0051 Art of the Moving Image
+ILVS-0053 Global Indigenous Film & Media
+ILVS-0056 Political Cinema
+ILVS-0059 The Paranoid Imagination
+ILVS-0062 Translating the World
+ILVS-0063 Arabian Nights
+ILVS-0066 Border Crossings in Literature and Film
+ILVS-0092 Special Topics - Tarkovsky & Slow Cinema
+ILVS-0118 Haruki Murakami and World Literature
+ILVS-0130 Monsters in Literature and Film
+ILVS-0135 Graphic Novel: History & Craft
+ILVS-0142 Jewish Experience On Film
+ILVS-0160 Environmental Justice And World Literature
+ILVS-0164 Who Owns the Past? Art, Heritage, and Global Conflicts
+ILVS-0185 China and the West
+ILVS-0186 How Films Think
+ILVS-0192 Special Topics - James Baldwin: Revolutionary
+ILVS-0193 Advanced Directed Study
+ILVS-0194 Advanced Directed Study
+ILVS-0199 Senior Honors Thesis B
+INTR-0099 Internship
+INTR-0196 Directed Research
+INTR-0198 Senior Honors Thesis B
+ITAL-0002 Elementary Italian II
+ITAL-0004 Intermediate Italian II
+ITAL-0010 Beginner Conversational Italian
+ITAL-0022 Composition And Conversation II
+ITAL-0055 The Rinascimento
+ITAL-0057 The Great Seduction: Italy’s Beauty, Genius, and Madness
+ITAL-0072 Arte Povera and Post-WWII Sculpture
+ITAL-0094 Independent Study
+ITAL-0155 The New Italians: Stories, Music and Cinema
+ITAL-0194 Independent Study
+ITAL-0199 Honors Thesis B
+JPN-0002 Elementary Japanese II
+JPN-0004 Intermediate Japanese II
+JPN-0022 Reading & Conversation II
+JPN-0061 Introduction To Japanese Culture
+JPN-0062 Modern Japanese Literature
+JPN-0080 Japanese Film
+JPN-0093 Directed Study
+JPN-0094 Directed Study
+JPN-0118 Haruki Murakami and World Literature
+JPN-0122 Advanced Japanese II
+JPN-0193 Advanced Directed Study
+JPN-0194 Advanced Directed Study
+JPN-0199 Honors Thesis B
+JS-0030 Religious, Philosophical Roots of Modern World 2
+JS-0035 Religion and Ethics
+JS-0087 Introduction To Talmud
+JS-0092 Special Topics - The Ancient Jewish Diaspora
+JS-0093 Directed Study
+JS-0094 Directed Study
+JS-0099 Judaic Studies Internship
+JS-0113 Jewish American Theatre
+JS-0136 The Story of Moses and King David
+JS-0142 Jewish Experience On Film
+JS-0157 Seminar: Hannah Arendt
+JS-0180 Introduction to the Zohar
+JS-0192 Special Topics - Judaic Studies - Mvmt & Protes: Evid frm Israel
+JS-0192 Special Topics - Judaic Studies - International Law and Israel.
+JS-0193 Advanced Directed Study
+JS-0194 Advanced Directed Study
+JS-0199 Senior Honors Thesis B
+LAS-0019 Modern Latin America
+LAS-0091 Latin American Studies Special Topics - Latin Social Dance
+LAS-0091 Latin American Studies Special Topics - Return Migration to Mexico
+LAS-0180 Latin American Studies Minor Interdisciplinary Capstone Project
+LAS-0190 Latin American Studies Independent Studies
+LAS-0197 Latin American Studies Senior Seminar
+LAS-0198 Latin American Studies Senior Thesis
+LAT-0001 Elementary Latin I
+LAT-0002 Elementary Latin II
+LAT-0003 Intermediate Latin
+LAT-0022 Latin Poetry
+LAT-0022 Latin Poetry - Ovid
+LAT-0026 Prose, Poetry, And Roman Medicine
+LAT-0113 Intermediate Latin
+LAT-0120 Review and Readings - Ovid
+LAT-0126 Prose, Poetry, And Roman Medicine
+LAT-0181 Latin Seminars - The Greco-Roman World & the Invention of America
+LING-0033 Logic
+LING-0071 Historical Linguistics
+LING-0096 Romance Linguistics
+LING-0133 Philosophy Of Language
+LING-0137 Language & Culture
+LING-0155 Development Of Language
+LST-0023 Spanish For Heritage Learners
+LST-0051 Latinx Theatre and Film
+LST-0062 Childhood Across Culture
+LST-0094 Special Topics - Remixing the Past in Latin Ame
+LST-0094 Special Topics - Intro to LatinX studies
+LST-0094 Special Topics - Return Migration to Mexico
+LST-0193 Independent Study
+MATH-0002 Calculus Skills Workshop
+MATH-0016 Symmetry
+MATH-0019 The Mathematics Of Social Choice
+MATH-0021 Introductory Statistics
+MATH-0032 Calculus I
+MATH-0034 Calculus II
+MATH-0042 Calculus III
+MATH-0051 Differential Equations
+MATH-0061 Discrete Mathematics
+MATH-0063 Number Theory
+MATH-0065 Bridge to Higher Mathematics
+MATH-0070 Linear Algebra
+MATH-0070 Linear Algebra
+MATH-0087 Mathematical Modeling And Computation
+MATH-0123 Mathematical Aspects of Data Analysis
+MATH-0126 Numerical Linear Algebra
+MATH-0133 Complex Variables
+MATH-0135 Real Analysis I
+MATH-0136 Real Analysis II
+MATH-0145 Abstract Algebra I
+MATH-0146 Abstract Algebra II
+MATH-0164 The Mathematics of Poverty and Inequality
+MATH-0165 Probability
+MATH-0166 Statistics
+MATH-0169 Machine Learning via Sequential Interaction
+MATH-0171 Point-set Topology
+MATH-0190 Advanced Special Topics - Logic
+MATH-0190 Advanced Special Topics - Projective Geometry
+MATH-0192 Seminars In Mathematics
+MATH-0193 Special Topics - Local Algebra
+MATH-0193 Special Topics - Tensor-tensor algebra
+MATH-0193 Special Topics - Protein modeling via AlphaFold and mathematical op
+MATH-0193 Special Topics - Set Theory semester 2
+MATH-0195 Senior Honors Thesis A
+MATH-0196 Senior Honors Thesis B
+MATH-0226 Numerical Linear Algebra
+MATH-0240 Special Topics in Algebra
+MATH-0265 Probability
+MATH-0285 Manifolds
+MATH-0290 Graduate Special Topics - Mathematical Foundations of AI
+MATH-0290 Graduate Special Topics - Advanced Complexity Theory
+MATH-0292 Graduate Development Seminar
+MATH-0293 Graduate One-on-One Course - Lie Groups and Integral Geomet
+MATH-0293 Graduate One-on-One Course - Cluster Algebras
+MATH-0294 Internship in Mathematics
+MATH-0295 Master’s Thesis I
+MATH-0296 Master’s Thesis II
+MATH-0297 PhD Thesis I
+MATH-0298 PhD Thesis II
+MATH-0401 Master's Continuation, Part-time
+MATH-0402 Master's Continuation, Full-time
+MATH-0405 Grad Teaching Assistant
+MATH-0406 Grad Research Assistant
+MATH-0501 Doctoral Continuation, Part-time
+MATH-0502 Doctoral Continuation, Full-time
+MDIA-0001 Intro to Video Art
+MDIA-0061 Intro to Sound: Sound Arts
+MDIA-0104 Video Installation
+MDIA-0106 Intro to Film & Video
+MDIA-0109 The Power of Feminist Art
+MDIA-0141 Animation 1
+MDIA-0143 Animation 3
+MDIA-0146 Animation Integration
+MDIA-0191 Special Topics - Puppets, Animation, Performance
+MDIA-0191 Special Topics - Character Design
+MDVL-0198 Minor Capstone
+ME-0011 Materials & Manufacturing II
+ME-0021 Mechanics II
+ME-0031 Electronics & Controls II
+ME-0035 Introductory Robotics And Mechatronics
+ME-0040 Engineering Design I
+ME-0045 Musical Instrument Design And Manufacture
+ME-0050 Thermal Fluid Systems I
+ME-0070 Instruments And Experiments
+ME-0090 Nano Course - Engineering Design Abroad - Cartagena, Colombia
+ME-0093 Special Topics - Design for Fabrication
+ME-0094 Undergraduate Research
+ME-0096 Thesis
+ME-0099 Internship In Mechanical Engineering
+ME-0100 Applied Mathematics For Engineers
+ME-0110 Manufacturing Processes And Materials Technology
+ME-0116 Composite Materials
+ME-0121 Advanced Dynamics
+ME-0122 Advanced Vibrations
+ME-0123 Biomechanics
+ME-0125 Mechanics of Materials at the Micro & Nano Scale
+ME-0127 Architectural Acoustics
+ME-0134 Robotics
+ME-0141 Assistive Design
+ME-0151 Thermal-fluid Transport II
+ME-0173 Data Science for Sustainability
+ME-0177 Finite Element Analysis
+ME-0193 Special Topics - Computational Fluid Dynamics
+ME-0193 Special Topics - Fracture Mechanics
+ME-0193 Special Topics - Ethics of Product Design
+ME-0193 Special Topics - Energy Storage Systems
+ME-0193 Special Topics - Prosthetics
+ME-0291 Graduate Seminar - Human Factors Engineering
+ME-0291 Graduate Seminar - Human-Robot Interaction
+ME-0291 Graduate Seminar - Mechanical Engineering
+ME-0294 Master’s Project
+ME-0296 Master's Thesis
+ME-0298 Doctoral Thesis
+ME-0299 Graduate Internship in Mechanical Engineering
+ME-0401 Master's Degree Continuation
+ME-0402 Master's Degree Continuation
+ME-0404 Graduate Engineering Co-op
+ME-0405 Grad Teaching Assistant
+ME-0406 Grad Research Assistant
+ME-0501 Doctoral Degree Continuation
+ME-0502 Doctoral Degree Continuation
+MES-0192 Independent Study
+MES-0199 Senior Honors Thesis B
+MSE-0111 Physics of Solar Cells
+MSE-0124 Instrumental Analysis
+MSE-0152 Tissue Engineering and Regenerative Medicine
+MSE-0161 Finite Element Analysis
+MSE-0170 Manufacturing Processes And Materials Technology
+MSE-0172 Composite Materials
+MSE-0176 Mechanics of Materials at the Micro & Nano Scale
+MTL-0113 Introduction to Metals
+MTL-0134 Metals: Process & Experimentation
+MTL-0148 Sustainable Jewelry Practices
+MTL-0183 Color as Content
+MUS-0005 Introduction to Music Theory and Musicianship
+MUS-0009 Private Lessons - Beginner Level
+MUS-0009 Private Lessons - Early Intermediate Level
+MUS-0009 Private Lessons No Credit
+MUS-0014 Introduction To Songwriting and Arranging
+MUS-0016 Writing About Music
+MUS-0021 American Music
+MUS-0023 History of Rock 'n' Roll
+MUS-0026 History of Jazz
+MUS-0040 African Musical Arts
+MUS-0053 Composer of The Year - Mahler Then and Now
+MUS-0056 Music on Film; Film on Music
+MUS-0057 Sound and the Sonic Imagination
+MUS-0061 Computer Tools For Musicians
+MUS-0067 Private Lessons - Early Advanced Level
+MUS-0067 Private Lessons - Advanced Level
+MUS-0067 Private Lessons No Credit
+MUS-0068 Senior Recital
+MUS-0069 Gospel Choir
+MUS-0069 Gospel Choir No Credit
+MUS-0070 Jazz Orchestra
+MUS-0070 Jazz Orchestra No Credit
+MUS-0071 Jazz Improvisation Ensemble
+MUS-0071 Jazz Improvisation Ensemble No Credit
+MUS-0074 Wind Ensemble
+MUS-0074 Wind Ensemble No Credit
+MUS-0078 African Music and Dance Ensemble
+MUS-0079 Arabic Music Ensemble
+MUS-0079 Arabic Music Ensemble No Credit
+MUS-0080 Javanese Gamelan Ensemble
+MUS-0080 Javanese Gamelan No Credit
+MUS-0081 Concert Choir
+MUS-0081 Concert Choir No Credit
+MUS-0082 Chamber Singers
+MUS-0082 Chamber Singers No credit
+MUS-0083 Opera Ensemble
+MUS-0083 Opera Ensemble No Credit
+MUS-0084 Symphony Orchestra
+MUS-0084 Symphony Orchestra No Credit
+MUS-0085 Chamber Orchestra
+MUS-0085 Chamber Orchestra No Credit
+MUS-0086 Chamber Music Ensembles
+MUS-0086 Chamber Music Ensembles No Credit
+MUS-0087 Early Music Ensemble
+MUS-0087 Early Music Ensemble No Credit
+MUS-0089 New Music Ensemble
+MUS-0089 New Music Ensemble No Credit
+MUS-0090 Electronic Music Ensemble
+MUS-0090 Electronic Music Ensemble No Credit
+MUS-0097 Special Topics - Independent Study
+MUS-0097 Special Topics - Musical Theater Song Rep
+MUS-0097 Special Topics - Advanced Digital Composition
+MUS-0098 Special Studies: Tutorial
+MUS-0098 Special Studies: Tutorial - Composition Concert Portfolio
+MUS-0098 Special Studies: Tutorial - Tufts Composers Documentation
+MUS-0098 Special Studies: Tutorial - Composition Recital
+MUS-0098 Special Studies: Tutorial - Music Composition
+MUS-0099 Internship and Community Service
+MUS-0101 Jazz Theory
+MUS-0112 Sound & Structure II: Color, Form, and Meaning
+MUS-0115 Orchestration
+MUS-0119 Composition Practicum
+MUS-0119 Composition Practicum: No Credit
+MUS-0120 Conducting
+MUS-0150 Listening & History
+MUS-0152 Social Justice, Advocacy, and Music
+MUS-0160 Music, Emotion, and Therapy in the Stoic Tradition
+MUS-0165 Studies In 20th- and 21st-Century Music - Studies in Creative Process
+MUS-0184 Fieldwork Methods in Music, Sound, and Culture
+MUS-0197 Special Topics - Boston Soundscapes and Music
+MUS-0198 Special Studies: Tutorial - Independent Music Study
+MUS-0198 Special Studies: Tutorial - Composition Individual Study
+MUS-0198 Special Studies: Tutorial - Composition Individual Study 2
+MUS-0199 Senior Honors Thesis B
+MUS-0295 Graduate Internship and Community Service
+MUS-0296 Graduate Music Performance
+MUS-0297 Graduate Research
+MUS-0299 Master's Thesis
+MUS-0401 Master's Degree Continuation - Part-Time
+MUS-0402 Master's Degree Continuation - Full-Time
+MUS-0405 Grad Teaching Assistant
+NU-0101 Introductory Human Nutrition
+NU-0128 Nutrition And Behavior
+OTS-0104 Kinesiology
+OTS-0107 Occupation And Adaptation In The Adult Years
+OTS-0108 Assistive Technology Innovations
+OTS-0183 Independent Study - Hand Therapy Exam Prep-Cert
+OTS-0183 Independent Study - Hand Therapy Exam Prep-Cert
+OTS-0184 Independent Study - Assistive Technology
+OTS-0204 Topics in Emerging Practice Areas
+OTS-0206 OTS Clinical Reasoning II: Procedural Reasoning
+OTS-0209 Clinical Research
+OTS-0214 Professional Development for the Doctoral Capstone
+OTS-0215 DEC Seminar
+OTS-0216 Doctoral Experiential Component
+OTS-0224 Occupational Therapy Practice In Physical Dysfunction
+OTS-0227 Occupational Therapy Practice In Psychosocial Dysfunction
+OTS-0233 Policy & Management - Occupational Therapy
+OTS-0237 Level II Fieldwork
+OTS-0238 Level II Fieldwork
+OTS-0244 Health Conditions: Pathology And Prevention III
+OTS-0275 Topics In Hand And Upper Extremity Rehabilitation II
+OTS-0284 Therapy in Schools: Best Practices - School Based Practice
+OTS-0286 Leadership Project Planning
+OTS-0288 Data Collection and Analysis for OT Practitioners
+OTS-0293 Special Topics - Special Topics in OT
+OTS-0293 Special Topics - Spec Top OT: Proj Dissem 1
+OTS-0295 Mentorship II
+PAI-0003 Introduction to Painting
+PAI-0006 Introduction to Figure Painting
+PAI-0010 Intro to Water, Color & Paper
+PAI-0050 Intermediate Projects
+PAI-0075 Intermediate Studio Seminar
+PAI-0080 The Contemporary Landscape
+PAI-0098 Bilder
+PAI-0117 Intermediate Painting: Abstraction, Representation, and Criticality
+PAI-0123 Painting and Installation
+PAI-0135 Advanced Painting Seminar/Studio
+PAI-0140 Color and Critical Inquiry
+PAI-0172 Intermediate Portrait Painting: Subject and Subjectivity
+PAI-0212 Graduate Painting & Drawing Practicum
+PAIM-0002 Figure Painting
+PAIM-0054 Painting Foundation
+PAIM-0055 Disrupted Realism
+PAIM-0070 Contemporary Portrait
+PAIM-0075 Painting a Week
+PE-0002 Swimming I - Beginners
+PE-0002 Swimming I - Advanced
+PE-0006 Yoga - Vinyasa Yoga for First-Years
+PE-0006 Yoga - Power Yoga
+PE-0006 Yoga - Vinyasa
+PE-0006 Yoga - Vinyasa
+PE-0006 Yoga - Vinyasa
+PE-0008 Pilates - Pilates
+PE-0023 Ropes And Rocks
+PE-0032 Squash I
+PE-0033 Tennis I
+PE-0037 Racquet Sports - Pickleball
+PE-0041 Golf I
+PE-0042 Spinning
+PE-0043 Muscle Conditioning
+PE-0045 Physical Fitness - Interval Training
+PE-0045 Physical Fitness - Intro to Rowing Erg
+PE-0045 Physical Fitness - Training for Half Marathon
+PE-0045 Physical Fitness - Boot Camp
+PE-0046 Weight Training
+PE-0049 Soccer/basketball - Basketball
+PE-0110 Independent Study - Swimming (Beginners) TA
+PE-0110 Independent Study - Swimming I TA
+PE-0131 Emergency Care
+PHIL-0002 Introduction To Philosophy
+PHIL-0002 Introduction To Philosophy - The Great Ideals
+PHIL-0002 Introduction To Philosophy - The Great Ideals
+PHIL-0002 Introduction To Philosophy - Practicing Philosophy
+PHIL-0016 Philosophy Of Religion
+PHIL-0024 Introduction To Ethics
+PHIL-0033 Logic
+PHIL-0034 Religion and Ethics
+PHIL-0042 Western Political Thought II
+PHIL-0043 Justice, Equality, And Liberty
+PHIL-0044 Philosophy as a Way of Life
+PHIL-0045 War and Terrorism
+PHIL-0052 Aesthetics
+PHIL-0057 Philosophy of Technology
+PHIL-0092 Special Topics - Pre-college Philosophy
+PHIL-0092 Special Topics - NIETZSCHE
+PHIL-0092 Special Topics - The Meaning of Life
+PHIL-0092 Special Topics - How to be a bad person
+PHIL-0094 Honors Thesis B
+PHIL-0117 Philosophy Of Mind
+PHIL-0120 Metaphysics
+PHIL-0121 Ethical Theory
+PHIL-0124 Bioethics
+PHIL-0133 Philosophy Of Language
+PHIL-0152 History Of Modern Philosophy
+PHIL-0155 Twentieth-century American And British Philosophy
+PHIL-0188 Seminar In The History Of Philosophy - Ignorance and Argument
+PHIL-0192 Seminars - Analytic & Continental Philos
+PHIL-0192 Seminars - Nature of the Social World
+PHIL-0192 Seminars - Philosophy of Experiments
+PHIL-0194 Special Topics - Practicum in Public Philosophy
+PHIL-0194 Special Topics - Aesthetics
+PHIL-0194 Special Topics - French Continental Theory
+PHIL-0194 Special Topics - Nietschze
+PHIL-0194 Special Topics - Metaphysics of Modality
+PHIL-0196 Special Topics - Practicing Philosophy
+PHIL-0196 Special Topics - Seminar: Hannah Arendt
+PHIL-0292 Graduate Seminar - Race, Caste, and Identity
+PHIL-0292 Graduate Seminar - Objective Value?
+PHIL-0294 Independent Study - Art & Transformation
+PHIL-0294 Independent Study - Hannah Arendt
+PHIL-0294 Independent Study - Metaphysics of Modality
+PHIL-0401 Masters Degree Continuation
+PHIL-0402 Masters Degree Continuation
+PHIL-0405 Grad Teaching Assistant
+PHIL-0406 Grad Research Assistant
+PHT-0111 Introduction to Digital Photography
+PHT-0113 Black, White, Grey: Intro to Analog Photography
+PHT-0118 Intermediate Photography
+PHT-0121 Advanced Photography Projects
+PHT-0127 Historic Photo-printing Methods
+PHT-0157 Making a Picture
+PHT-0191 Special Topics - Diaristic Image Making
+PHT-0191 Special Topics - Love & Hate
+PHT-0191 Special Topics - Place, Time, Dimension
+PHTM-0063 Photo 1: Film & Darkroom
+PHTM-0065 Photography And Computer
+PHY-0001 Physics 1 and 11 Shared Lab
+PHY-0002 Introduction To Physics II W/lab
+PHY-0002 Physics 2 and 12 Shared Lab
+PHY-0011 General Physics I W/lab
+PHY-0012 General Physics II W/lab
+PHY-0013 Introduction To Modern Physics
+PHY-0020 Relativity and Cosmology
+PHY-0025 Biophysics
+PHY-0052 Thermal Physics
+PHY-0062 Quantum Theory II
+PHY-0064 Advanced Experimental Physics
+PHY-0091 Special Topics - Cosmological Gravity Waves
+PHY-0091 Special Topics - Research in quantum information II
+PHY-0096 Senior Thesis B
+PHY-0107 Astronomy and Physics Seminar - Journal Club
+PHY-0146 Electromagnetic Theory II
+PHY-0153 Statistical Mechanics
+PHY-0164 Quantum Physics II
+PHY-0193 Selected Topics - Neutrino Research
+PHY-0264 Quantum Theory Of Fields
+PHY-0293 Special Topics - Biophysics
+PHY-0294 Special Topics - Quantum Thry Of Fields
+PHY-0296 Thesis
+PHY-0297 Graduate Research
+PHY-0298 Graduate Research
+PHY-0402 Masters Degree Continuation
+PHY-0405 Grad Teaching Assistant
+PHY-0406 Grad Research Assistant
+PHY-0502 Doctoral Degree Continuation
+POR-0004 Intermediate Portuguese II
+POR-0011 Elementary Portuguese I for Romance Lang. Learners
+POR-0012 Elementary Portuguese II for Romance Lang. Learners
+POR-0022 Composition And Conversation II
+POR-0092 Special Topics In Portuguese-speaking Cultures - Remixing the Past in Latin America
+POR-0193 Independent Study
+PRT-0102 Papermaking
+PRT-0113 Replicas and Reproductions
+PRT-0120 Publishing Now
+PRT-0137 Multiples, Rituals, Actions
+PRT-0138 Screenprinting A-Z
+PRT-0139 Progressive Proof: Color
+PRT-0144 Riso Studio
+PRT-0164 Int/Adv Papermaking
+PRT-0170 Etching and Intaglio
+PRT-0174 Relief Print
+PRT-0183 Lithography
+PRT-0184 Drawing/Prints: Prints/Drawing
+PS-0008 Workshop in Political Science - Intellectual Roots of Modern World
+PS-0008 Workshop in Political Science - Politics and Culture from All Sides
+PS-0008 Workshop in Political Science - Individualism and Nonconformity in Film
+PS-0008 Workshop in Political Science - Critiq. of Liberalism Karl Marx & New Right
+PS-0042 Western Political Thought II
+PS-0043 Justice , Equality, And Liberty
+PS-0061 Introduction To International Relations
+PS-0081 Future of Global Institutions (EPIIC)
+PS-0099 Fieldwork In Politics
+PS-0101 The Presidency And The Executive Branch
+PS-0102 Congress, Bureaucracy, And Public Policy
+PS-0103 Political Science Research Methods
+PS-0109 Seminar: The Politics of Ethnicity and American Identity
+PS-0118 Topics in American Politics - Decoding State Gov. and Pol.
+PS-0118 Topics in American Politics - Law and Performance
+PS-0120 Seminar: Power And Politics In China
+PS-0128 Gender, Work, And Politics In East Asia
+PS-0129 African Politics
+PS-0138 Topics In Comparative Politics - Mkng States: Thry & Prac
+PS-0138 Topics In Comparative Politics - Polit Viol State & Soc
+PS-0138 Topics In Comparative Politics - Democracy and its Alternatives
+PS-0138 Topics In Comparative Politics - Mvmt & Protes: Evid frm Israel
+PS-0157 Seminar: Hannah Arendt
+PS-0158 Topics In Political Thought - The Ethics & Pol. of Immigr
+PS-0158 Topics In Political Thought - The Greco-Roman World & the Invention of America
+PS-0164 Cyber-Security & Cyber-Warfare
+PS-0172 U.S. Foreign Policy In The Middle East
+PS-0175 Politics Of The World Economy
+PS-0180 Regionalism In African International Relations
+PS-0188 Topics In International Relations - Masc., Politics & Modern War
+PS-0188 Topics In International Relations - US Foreign Policy toward Asia
+PS-0188 Topics In International Relations - Arab-Israeli Conflict
+PS-0188 Topics In International Relations - International Law and Israel.
+PS-0189 Seminar In International Relations - U.S.-China Relations
+PS-0191 Issues In American Public Policy
+PS-0193 American Conservatism
+PS-0194 Environmental PolicyLinking US and Global Politics - Linking US and Global Politics
+PS-0194 Environmental PolicyLinking US and Global Politics - U.S. Challenges and Solutions
+PS-0196 Independent Study
+PS-0196 Independent Study - Public Policy & Campaigns
+PS-0196 Independent Study - Sino-American Trade Policy
+PS-0196 Independent Study - Migration Weaponization
+PS-0196 Independent Study - Research on Redistricting Refo
+PS-0199 Senior Honors Thesis
+PSY-0001 Introduction To Psychology
+PSY-0009 Introduction To Cognitive & Brain Sciences
+PSY-0011 Developmental Psychology
+PSY-0012 Psychopathology
+PSY-0013 Social Psychology
+PSY-0022 Emotion
+PSY-0027 Perception
+PSY-0028 Cognitive Psychology
+PSY-0031 Statistics For Behavioral Science
+PSY-0032 Experimental Psychology
+PSY-0051 Black Psychology
+PSY-0053 Engineering Psychology
+PSY-0071 Psychological Evaluation and Treatment
+PSY-0074 Project Study In Human Systems
+PSY-0092 Research In Psychology
+PSY-0098 Readings In Psychology
+PSY-0099 Internship
+PSY-0103 Brain And Behavior
+PSY-0106 Seminar: Clinical Psychology
+PSY-0111 Psychiatric Medications in Children
+PSY-0112 Biological Bases Of Psychopathology
+PSY-0116 Psychology of Fear
+PSY-0128 Nutrition And Behavior
+PSY-0129 Cognitive Neuroscience
+PSY-0138 Psychology of Anti-Black Racism in U.S. Health
+PSY-0140 Probabilistic Models of Perception and Cognition
+PSY-0155 Phonological Theory
+PSY-0182 Senior Capstone in Clinical Psychology B
+PSY-0192 Undergraduate Independent Research
+PSY-0196 Seminar In Psychology - Early Identification and Preve
+PSY-0196 Seminar In Psychology - Neuroscience of Autism: Brain,Behavior &Microbiome
+PSY-0196 Seminar In Psychology - Rethinking Sensory Inclusion
+PSY-0199 Senior Honors Thesis A
+PSY-0199 Senior Honors Thesis B
+PSY-0202 Proseminar In Psychology
+PSY-0208 Advanced Statistics II
+PSY-0229 Cognitive Neuroscience
+PSY-0232 Core Course In Cognitive Psychology
+PSY-0240 Probabilistic Models of Perception and Cognition
+PSY-0260 Seminar: Teaching In Psychology
+PSY-0290 Graduate Research II
+PSY-0292 Graduate Research Advanced II
+PSY-0294 Graduate Research Advanced IV
+PSY-0296 Masters Thesis
+PSY-0298 Phd Dissertation
+PSY-0401 Masters Degree Continuation, Part-time
+PSY-0402 Masters Degree Continuation, Full-time
+PSY-0405 Grad Teaching Assistant
+PSY-0406 Grad Research Assistant
+PSY-0501 Doctoral Degree Continuation
+PSY-0502 Doctoral Degree Continuation
+RCD-0051 Introduction to Asian American Studies
+RCD-0070 Colonial Schooling in Comparative Perspective
+RCD-0094 Special Topics - Intro to Queer Studies
+RCD-0094 Special Topics - Intro to American Studies
+RCD-0094 Special Topics - Intro to Africana Studies
+RCD-0094 Special Topics - Global Indigenous Film & Media
+RCD-0094 Special Topics - Contem Multi-Ethnic Lit
+RCD-0094 Special Topics - Poetry and Decolonization
+RCD-0094 Special Topics - Race, Caste and Capitalism
+RCD-0094 Special Topics - Reproductive Labor, Insts& Pwr
+RCD-0094 Special Topics - The Ancient Jewish Diaspora
+RCD-0094 Special Topics - Intro to Latinx Studies
+RCD-0150 Methods in Studies of Race, Colonialism, and Diaspora
+RCD-0179 Special Topics Research Seminar - Histories of Race, Contagion
+RCD-0179 Special Topics Research Seminar - Black Feminist Epistemologies
+RCD-0179 Special Topics Research Seminar - James Baldwin: Revolutionary
+RCD-0179 Special Topics Research Seminar - Env Justice & World Lit
+RCD-0194 Special Topics - American Indian Policy & Law
+RCD-0195 Capstone
+RCD-0198 Thesis A
+RCD-0199 Thesis B
+REL-0022 Introduction To New Testament
+REL-0023 Introduction To The Talmud
+REL-0030 Religious, Philosophical Roots of Modern World 2
+REL-0031 Philosophy Of Religion
+REL-0034 Religion and Ethics
+REL-0053 Asian Religions
+REL-0062 Jesus from the 1st to the 21st Century
+REL-0064 Global History of Christianity since the Middle Ages
+REL-0102 Special Topics - The Ancient Jewish Diaspora
+REL-0106 Religion, Violence and Sexuality
+REL-0109 Myth, Ritual, And Symbol
+REL-0162 Jesus from the 1st to the 21st Century
+REL-0171 Modern Hinduism
+REL-0176 Islam And Modernity
+REL-0184 Introduction to the Zohar
+REL-0187 The Story of Moses and King David
+REL-0188 Jewish Experience On Film
+REL-0192 Special Topics - Islam&Modernity:IR Sem Lvl
+REL-0196 Special Topics - Independent Study
+REL-0199 Senior Honors Thesis B
+RS-0096 Romance Linguistics
+RUS-0002 Elementary Russian
+RUS-0004 Intermediate Russian
+RUS-0022 Composition And Conversation
+RUS-0064 Being Human: Literature & Existentialism
+RUS-0069 Satire in Russian and Czech Literature
+RUS-0092 Special Topics - Tarkovsky & Slow Cinema
+RUS-0093 Directed Study
+RUS-0094 Directed Study
+RUS-0122 Advanced Russian
+RUS-0193 Advanced Directed Study: Language Or Literature
+RUS-0194 Advanced Directed Study: Language Or Literature
+RUS-0199 Senior Honors Thesis B
+SCP-0001 3D Foundations: Wood Shop + Ceramics
+SCP-0002 3D Foundations: Fibers + Welding
+SCP-0101 Intro to Sculpture
+SCP-0124 Performing Objects
+SCP-0131 Woodworking for Sculptors
+SCP-0134 Intermediate Digital Fabrication
+SCP-0185 Advanced Installation Projects
+SMFA-0070 Internship for Credit
+SMFA-0093 Senior Thesis Program
+SMFA-0100 Independent Study
+SMFA-0117 Visual Politics
+SMFA-0150 Open Studio - Sculpture
+SMFA-0191 Post Baccalaureate Seminar
+SMFA-0192 Post Baccalaureate Consultations
+SMFA-0194 Special Topics - Community Co-Creation Lab
+SMFA-0196 Directed Study - Media Arts
+SMFA-0203 Grad Group Critique
+SMFA-0270 Graduate Internship
+SMFA-0295 MFA Mentorship & Advising
+SMFA-0296 MFA Mentorship & Advising
+SOC-0001 Intro. to Sociology: The Scientific Study of Society
+SOC-0011 Sociology of Race and Ethnicity
+SOC-0020 Families, Romance & Intimacy - The Ties that Bind
+SOC-0040 Media, Culture, and Society
+SOC-0060 Social Inequalities/Social Justice
+SOC-0074 Race, Caste, and Capitalism
+SOC-0094 Special Topics - Reproductive Labor, Insts& Pwr
+SOC-0094 Special Topics - Soc of Mental Health/Illness
+SOC-0094 Special Topics - Death & Dying
+SOC-0094 Special Topics - Return Migration to Mexico
+SOC-0094 Special Topics - Cellphones/Social Judgmnt/Self
+SOC-0099 Internship
+SOC-0100 Research Design and Interpretation
+SOC-0102 Qualitative Research Methods
+SOC-0103 Sociological Theory
+SOC-0108 Epidemics: Plagues, Peoples and Politics
+SOC-0114 Environmental Sociology
+SOC-0118 Uncovering the Past: Historical Soc in Digital Age
+SOC-0121 Law and Society
+SOC-0188 Seminar In Current Sociology - Race in Latin America
+SOC-0189 DuBois and the Souls of Sociology
+SOC-0197 Independent Study
+SOC-0198 Directed Research In Sociology
+SOC-0199 Senior Honors Thesis B
+SPN-0001 Elementary Spanish I
+SPN-0002 Elementary Spanish II
+SPN-0003 Intermediate Spanish I
+SPN-0004 Intermediate Spanish II
+SPN-0021 Composition And Conversation I
+SPN-0022 Composition And Conversation II - Conexiones que nos construyen
+SPN-0022 Composition And Conversation II - Sueños en acción
+SPN-0022 Composition And Conversation II - ¡De cine!: Superando desafíos
+SPN-0022 Composition And Conversation II - Tierra, Clima y Justicia
+SPN-0022 Composition And Conversation II - Viajar, Comer, y Bailar
+SPN-0023 Spanish For Heritage Learners
+SPN-0030 Diversidad: Identity & Dissent in Modern Spain
+SPN-0031 Latin America: Cultural Perspectives
+SPN-0032 Convivencia: Identity and Dissent in Early Modern Spain
+SPN-0033 Latin America: Colonial (Dis)encounters
+SPN-0051 Sugar and Nation in the Hispanic Caribbean
+SPN-0092 Special Topics - Latin American Icons
+SPN-0092 Special Topics - Remixing the Past in Latin Ame
+SPN-0094 Independent Study
+SPN-0121 Advanced Composition And Conversation I
+SPN-0128 Medical Spanish
+SPN-0146 Spanish In The Community
+SPN-0147 Business Spanish Seminar
+SPN-0175 Enchantment & Fantasy in Spanish Literature
+SPN-0192 Special Topics - From Poets to Singer-songwrite
+SPN-0192 Special Topics - Beyond the Wall: Writing, Educ
+SPN-0192 Special Topics - Lost and Found Tower of Babel
+SPN-0194 Independent Study
+SPN-0194 Independent Study - Tu radio Jumbo en Español
+SPN-0196 Special Tps: Study Abroad - Tu radio Jumbo en español
+SPN-0199 Honors Thesis B
+STS-0001 STS Lunch Seminar
+STS-0010 STS Reading Lab - Life
+STS-0020 Global Cities
+STS-0050 Special Topics - Trans Science
+STS-0050 Special Topics - Technology&Ecologies of Crisis
+STS-0050 Special Topics - Social Media Trust & Safety
+STS-0050 Special Topics - Smartphones, Social Judgement,
+STS-0057 Philosophy of Technology
+STS-0058 Sound and Sonic Imagination
+STS-0102 Global Environmental History
+STS-0108 Epidemics: Plagues, Peoples and Politics
+STS-0123 Technologies of Enchantment
+STS-0124 Bioethics
+STS-0154 Health And Healing In Medieval And Early Modern Europe
+STS-0175 Think Like an Archaeologist!
+TCS-0141 Entrepreneurship for Social Impact
+TML-0010 Preparing New and Aspiring Leaders
+TML-0011 Mastering Money: Developing Financial Literacy
+TML-0013 Essentials of Marketing
+TML-0015 Living a Life with Purpose
+TML-0112 Vocal Arts for Personal and Professional Life
+TML-0193 Special Topics - Business Essentials
+TML-0193 Special Topics - Data &ML for Financial Markets
+TML-0193 Special Topics - Intro to Management Consulting
+TML-0193 Special Topics - Starting a Small Business
+TML-0201 Essentials of Technology Strategy
+TML-0202 Leadership: Personal Development
+TML-0203 Building Financial Intelligence
+TML-0204 Customer Discovery and Solution Design
+TML-0205 Milestone Project: New Product & Service Development
+TML-0205 Milestone Project: New Product & Service Development
+TML-0206 Introduction to Data Analytics
+TML-0207 Solving Complex Problems through Systems Thinking
+TML-0207 Solving Complex Problems through Systems Thinking
+TML-0208 Program and Project Management
+TML-0209 Essentials of Strategic Management
+TML-0210 Practice of Ethical Leadership
+TML-0282 Capstone Leadership Project
+TML-0401 Masters Continuation - Part Time
+TPS-0001 Introduction Theatre, Dance, & Performance Studies
+TPS-0016 Latinx Theatre and Film
+TPS-0019 Asian American Theatre And Film
+TPS-0020 Art of the Moving Image
+TPS-0023 LGBTQ+ Theatre and Performance
+TPS-0024 Television History
+TPS-0029 Greek And Roman Comedy
+TPS-0035 Performance for Social Change
+TPS-0037 Global Indigenous Film & Media
+TPS-0045 Introduction To Acting
+TPS-0050 Acting Shakespeare
+TPS-0052 Acting for the Camera
+TPS-0058 Public Speaking
+TPS-0059 Stage Management
+TPS-0060 Costume Technology
+TPS-0070 Scene Design
+TPS-0072 Lighting Design
+TPS-0073 Makeup Design And Application
+TPS-0079 Screenwriting I
+TPS-0081 Production Run Crew
+TPS-0082 Practicum In Acting - Practicum in Acting
+TPS-0083 Practicum In Production
+TPS-0094 Special Topics - Drag Tech
+TPS-0094 Special Topics - Law and Performance
+TPS-0094 Special Topics - Musical Theater Song Repertoire
+TPS-0100 Creative Careers and Artistic Life Seminar
+TPS-0113 Jewish American Theatre
+TPS-0156 Directing II
+TPS-0178 Screenwriting II
+TPS-0184 Practicum In Design
+TPS-0186 Practicum In Directing
+TPS-0194 Special Topics - Staging Violence
+TPS-0194 Special Topics - Acting for Directing II
+TPS-0194 Special Topics - Hist & Theories of Black Perf.
+TPS-0194 Special Topics - Digital Theatre
+TPS-0194 Special Topics - Advanced Acting for the Camera
+TPS-0199 Senior Honors Thesis B
+TPS-0292 Graduate Seminar - Politics of the Body
+TPS-0294 Special Topics - Phenomenology and Performance
+TPS-0294 Special Topics - Hist & Theories of Black Perf.
+TPS-0294 Special Topics - Gender and Identity in Early Modern Theatre
+TPS-0294 Special Topics - American Musical Theater
+TPS-0296 Thesis
+TPS-0298 Graduate Research
+TPS-0401 Masters Degree Continuation
+TPS-0402 Masters Degree Continuation
+TPS-0405 Grad Teaching Assistant
+TPS-0406 Grad Research Assistant
+TPS-0501 Doctoral Degree Continuation
+TPS-0502 Doctoral Degree Continuation
+UC-NUTM01 Serving a Healthy Diet
+UC-NUTM02 Food is Medicine 101: Translating Evidence to Action
+UCOE-0120 Accelerated Development of Excellence in Physical Therapy
+UCOE-CPE131 Emergency Care
+UCW-0030 Novel Engineering Quick Start
+UEP-0020 Global Cities
+UEP-0101 Land Use Planning: Regulatory Tools and Techniques
+UEP-0103 Introduction to Geospatial Humanities
+UEP-0105 Urban Planning And Design
+UEP-0162 Global Water Systems: Science & Policy
+UEP-0173 Transportation Planning
+UEP-0181 Homelessness In America
+UEP-0185 Impact Investing for Catalytic Impact: Filling Capital Gaps
+UEP-0186 Community-Based Investing – Systems & Practice
+UEP-0187 Blended Return: Impact Investing Measurement Tools and Processes
+UEP-0190 American Indian Policy, Planning, and Law
+UEP-0194 Special Topics - Urban Design & Changing Suburb
+UEP-0194 Special Topics - Rep & Empowering Policy & Plan
+UEP-0194 Special Topics - Python I
+UEP-0194 Special Topics - Python II
+UEP-0194 Special Topics - Programming with R
+UEP-0195 Urban Studies Capstone
+UEP-0201 Land Use Planning: Regulatory Tools and Techniques
+UEP-0205 Urban Planning And Design
+UEP-0206 Planning for Low Impact Development and Green Infrastructure
+UEP-0207 Environmental Law
+UEP-0221 Climate Change Policy, Planning And Action
+UEP-0230 Negotiation, Mediation, And Conflict Resolution
+UEP-0241 Teaching Democracy
+UEP-0251 Economics For Planning And Policy Analysis
+UEP-0255 Field Projects: Planning And Practice
+UEP-0256 Program Evaluation
+UEP-0265 Corporate Management Of Environmental Issues
+UEP-0267 Sustainability Metrics And Decision Tools
+UEP-0282 Social Policy For Children And Families
+UEP-0284 Developing Sustainable Communities
+UEP-0291 Directed Studies
+UEP-0291 Directed Studies - Directed Studies
+UEP-0291 Directed Studies - Training in AutoCAD
+UEP-0292 Directed Studies
+UEP-0292 Directed Studies - Studies of IRA Best Practice
+UEP-0292 Directed Studies - Implementation and Innovation
+UEP-0294 Special Topics - Local Government Finance
+UEP-0295 Thesis Proposal - Thesis
+UEP-0296 Thesis
+UEP-0297 Capstone Exam
+UEP-0298 Sustainability Internship
+UEP-0299 Internship - Internship
+UEP-0401 Masters Degree Continuation
+UEP-0402 Masters Degree Continuation
+UEP-0405 Grad Teaching Assistant
+UEP-0406 Grad Research Assistant
+VMS-0010 Histories of Film, Part One, 1895-1955
+VMS-0050 Mapping “East Asias” in New England
+VMS-0091 Special Topics - Modern and Contemporary Asian Art
+VMS-0121 Beyond the Studio: Collab & Participatory Art
+VMS-0123 Liquidities: Art & Water, 1800-Present
+VMS-0130 Arte Povera and Post-WWII Sculpture
+VMS-0140 Imagining the Amazon: Art and Activism
+VMS-0143 Close Looking and Art Interpretation at the MFA
+VMS-0190 The Art of Building Empire
+VMS-0191 Independent Study for VMS Thesis Writing
+VMS-0193 Special Topics - Multi-sensory Cinema & Media
+VMS-0193 Special Topics - Lawns, Monocultures, & Commons
+VMS-0193 Special Topics - Latin American Icons
+VMS-0193 Special Topics - Mapping “East Asias” in New En
+VMS-0193 Special Topics - Modern, Contemporary Asian Art
+VMS-0194 Independent Study - Advanced - Cutlery, Materiality, Sexuality in Modern Europe
+VMS-0194 Independent Study - Advanced - ID doc foundations
+WGSS-0023 LGBTQ Theatre
+WGSS-0042 Women And Gender In Modern Chinese Culture
+WGSS-0069 Contemporary Multi-ethnic Literature
+WGSS-0073 Introduction To Queer Studies - Intro to Queer Studies
+WGSS-0085 Topics in Women's, Gender, and Sexuality Studies - Trans Science
+WGSS-0085 Topics in Women's, Gender, and Sexuality Studies - Black Superwomen
+WGSS-0085 Topics in Women's, Gender, and Sexuality Studies - Women Of Color Memoir
+WGSS-0085 Topics in Women's, Gender, and Sexuality Studies - Friendships & Other Intimacies
+WGSS-0099 Internship
+WGSS-0109 The Power of Feminist Art
+WGSS-0123 Frankenstein's Sisters: Austen & Shelley
+WGSS-0132 Myth, Ritual, And Symbol
+WGSS-0147 Sex and Money: Anthropology of Sex Work
+WGSS-0162 Gender, Work, And Politics In East Asia
+WGSS-0185 Special Topics Seminar in Women's, Gender, and Sexuality Studies - Histories of Race, Contagion
+WGSS-0193 Senior Project
+WGSS-0199 Senior Honor Thesis B

@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Course Recommendation System</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', 'Segoe UI', sans-serif;
+      background: #D6E4F0;
+      color: #2d3748;
+      min-height: 100vh;
+      padding: 48px 20px;
+    }
+
+    .container {
+      max-width: 920px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .header-pill {
+      display: inline-block;
+      background: #3498DB;
+      color: #ffffff;
+      font-size: 0.72rem;
+      font-weight: 900;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 999px;
+      margin-bottom: 14px;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #000000;
+      margin-bottom: 8px;
+    }
+
+    header p {
+      color: #718096;
+      font-size: 0.93rem;
+    }
+
+    .subtitle {
+      margin-top: 8px;
+      color: #718096;
+      font-size: 0.93rem;
+    }
+
+    /* Stats Bar */
+    .stats-bar {
+      display: flex;
+      gap: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 36px;
+    }
+
+    .stat-chip {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 12px 22px;
+      font-size: 0.82rem;
+      color: #718096;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+      text-align: center;
+    }
+
+    .stat-chip span {
+      display: block;
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #2d3748;
+      margin-bottom: 2px;
+    }
+
+    /* Search Section */
+    .search-section {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .search-section h2 {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: #2D3748;
+      margin-bottom: 16px;
+    }
+
+    .search-box {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .search-box input {
+      width: 240px;
+      padding: 10px 14px;
+      border-radius: 8px;
+      border: 1px solid #CBD5E0;
+      font-size: 0.9rem;
+      outline: none;
+      transition: border 0.2s;
+    }
+
+    .search-box input:focus {
+      border-color: #5DADE2;
+    }
+
+    .search-box button {
+      padding: 10px 16px;
+      background: #5DADE2;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .search-box button:hover {
+      background: #3498DB;
+    }
+
+    /* User Banner */
+    .user-banner {
+      background: linear-gradient(135deg, #EAF4FB 0%, #ffffff 100%);
+      border: 1px solid #D6EAF8;
+      border-radius: 16px;
+      padding: 20px 26px;
+      margin-bottom: 34px;
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      box-shadow: 0 2px 10px rgba(107, 70, 193, 0.08);
+    }
+
+    .user-avatar {
+      width: 52px;
+      height: 52px;
+      background: linear-gradient(135deg, #5DADE2, #3498DB);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: white;
+      flex-shrink: 0;
+      box-shadow: 0 4px 12px rgba(159, 122, 234, 0.35);
+    }
+
+    .user-info h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #2d3748;
+    }
+
+    .user-info p {
+      font-size: 0.8rem;
+      color: #6B4226;
+      margin-top: 4px;
+      line-height: 1.5;
+    }
+
+    /* Section */
+    .section {
+      margin-bottom: 34px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .section-badge {
+      padding: 4px 13px;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .badge-content {
+      background: #EAF4FB;
+      color: #5DADE2;
+    }
+
+    .badge-collab {
+      background: #F3E8E2;
+      color: #8B5E3C;
+    }
+
+    .section-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #2d3748;
+    }
+
+    .section-desc {
+      font-size: 0.78rem;
+      color: #a0aec0;
+      margin-left: auto;
+    }
+
+    /* Table */
+    .table-wrapper {
+      background: #F1F5F9;
+      border: 1px solid#E4D6CC;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    thead tr {
+      background: #EDE3DB;
+    }
+
+    thead th {
+      padding: 13px 20px;
+      text-align: left;
+      font-size: 0.73rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #4A5568;
+      font-weight: 600;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    tbody tr {
+      border-top: 1px solid #f7f7f7;
+      transition: background 0.15s;
+    }
+
+    tbody tr:hover {
+      background: #DCE7F2;
+    }
+
+    tbody td {
+      padding: 15px 20px;
+      font-size: 0.88rem;
+      vertical-align: middle;
+      color: #3A3A3A;
+    }
+
+    /* Rank */
+    .rank {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      border: 1px solid #CBD5E0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    .rank-1 {
+      background: #EAF4FB;
+      color: #3498DB;
+      border: 1px solid #3498DB;
+
+    }
+
+    .rank-2 {
+      background: #F3E8E2;
+      color: #8B5E3C;
+      border: 1px solid #6B4226;
+    }
+
+    .rank-3 {
+      background: #EBF5FB;
+      color: #5DADE2;
+      border: 1px solid #5DADE2;
+    }
+
+    .rank-other {
+      background: #F7FAFC;
+      color: #A0AEC0;
+      border: 1px solid #CBD5E0;
+    }
+
+    /* ID chip */
+    .id-chip {
+      background: #f7fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 7px;
+      padding: 2px 9px;
+      font-size: 0.76rem;
+      color: #4A5568;
+      font-family: 'Courier New', monospace;
+    }
+
+    /* Course title */
+    .course-title {
+      font-weight: 500;
+      color: #2d3748;
+    }
+
+    /* Score */
+    .score-wrap {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .score-bar-bg {
+      flex: 1;
+      height: 7px;
+      background: #f0f0f0;
+      border-radius: 999px;
+      overflow: hidden;
+    }
+
+    .score-bar-fill {
+      height: 100%;
+      border-radius: 999px;
+    }
+
+    .fill-content {
+      background: linear-gradient(90deg, #5DADE2, #85C1E9);
+    }
+
+    .fill-collab {
+      background: linear-gradient(90deg, #8B5E3C, #A47148);
+    }
+
+    .score-val {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: #2D3748;
+      min-width: 36px;
+      text-align: right;
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      margin-top: 48px;
+      color: #5DADE2;
+      font-size: 0.76rem;
+    }
+
+    .title-row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: nowrap
+    }
+
+    .title-row h1 {
+      white-space: nowrap;
+    }
+
+    .subtitle {
+      margin-top: 10px;
+      text-align: center;
+    }
+
+    .jumbo-logo {
+      width: 70px;
+      height: 70px;
+      object-fit: contain;
+      filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <header>
+      <div class="header-pill"> Tufts University</div>
+
+      <div class="title-row">
+        <img src="./jumbo.png" class="jumbo-logo">
+        <h1> Course Recommendation System</h1>
+      </div>
+      <p class="subtitle">Personalized recommendations using Content-Based &amp; Collaborative Filtering</p>
+    </header>
+
+    <!-- Search Section -->
+    <div class="search-section">
+      <h2>Enter your ID to get started</h2>
+
+      <div class="search-box">
+        <input type="text" placeholder="Enter User ID..." />
+        <button>Get Recommendations</button>
+      </div>
+    </div>
+
+
+    <!-- User Banner -->
+    <div class="user-banner">
+      <div class="user-avatar">7</div>
+      <div class="user-info">
+        <h2>Recommendations for User 7</h2>
+        <p>Seed course: <strong>The Deep History of Climate Adaptation</strong> &nbsp;·&nbsp; Rated IDs: 759, 869, 1389,
+          1775, 1822, 2040, 2143</p>
+      </div>
+    </div>
+
+    <!-- Content-Based -->
+    <div class="section">
+      <div class="section-header">
+        <span class="section-badge badge-content">Content-Based</span>
+        <span class="section-title">Similar Courses</span>
+      </div>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Course ID</th>
+              <th>Title</th>
+              <th>Content Score</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="rank rank-1">1</span></td>
+              <td><span class="id-chip">1181</span></td>
+              <td class="course-title">Arabian Nights</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-content" style="width:76.67%"></div>
+                  </div><span class="score-val">0.767</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-2">2</span></td>
+              <td><span class="id-chip">1159</span></td>
+              <td class="course-title">Arabian Nights</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-content" style="width:74.86%"></div>
+                  </div><span class="score-val">0.749</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-3">3</span></td>
+              <td><span class="id-chip">48</span></td>
+              <td class="course-title">Directed Study</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-content" style="width:35.79%"></div>
+                  </div><span class="score-val">0.358</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-other">4</span></td>
+              <td><span class="id-chip">49</span></td>
+              <td class="course-title">Directed Study</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-content" style="width:35.79%"></div>
+                  </div><span class="score-val">0.358</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-other">5</span></td>
+              <td><span class="id-chip">52</span></td>
+              <td class="course-title">Advanced Directed Study</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-content" style="width:31.68%"></div>
+                  </div><span class="score-val">0.317</span>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Collaborative -->
+    <div class="section">
+      <div class="section-header">
+        <span class="section-badge badge-collab">Collaborative</span>
+        <span class="section-title">Predicted For You</span>
+      </div>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Course ID</th>
+              <th>Title</th>
+              <th>Predicted Rating</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="rank rank-1">1</span></td>
+              <td><span class="id-chip">1716</span></td>
+              <td class="course-title">Research Design and Interpretation</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-collab" style="width:75.72%"></div>
+                  </div><span class="score-val">3.786</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-2">2</span></td>
+              <td><span class="id-chip">1636</span></td>
+              <td class="course-title">Graduate Research Advanced II</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-collab" style="width:72.65%"></div>
+                  </div><span class="score-val">3.632</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-3">3</span></td>
+              <td><span class="id-chip">468</span></td>
+              <td class="course-title">Program Evaluation</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-collab" style="width:71.67%"></div>
+                  </div><span class="score-val">3.584</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-other">4</span></td>
+              <td><span class="id-chip">385</span></td>
+              <td class="course-title">Artificial Intelligence</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-collab" style="width:71.58%"></div>
+                  </div><span class="score-val">3.579</span>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="rank rank-other">5</span></td>
+              <td><span class="id-chip">511</span></td>
+              <td class="course-title">Promoting Positive Youth Development</td>
+              <td>
+                <div class="score-wrap">
+                  <div class="score-bar-bg">
+                    <div class="score-bar-fill fill-collab" style="width:71.58%"></div>
+                  </div><span class="score-val">3.579</span>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <footer>Tufts Course Recommendation System · Content-Based + SVD Collaborative Filtering</footer>
+
+  </div>
+</body>
+
+</html>

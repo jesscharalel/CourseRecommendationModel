@@ -14,7 +14,7 @@ from scipy.sparse.linalg import svds
  
 from data import COURSES
  
- 
+#make sure there are no repeats with cross-listed classes, and list classes with multiple departments
 # ─────────────────────────────────────────────
 # 1. CONTENT-BASED FILTERING
 # ─────────────────────────────────────────────

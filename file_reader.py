@@ -19,3 +19,5 @@ courses[['ID', 'Title']] = courses['ID'].str.split(" ", n=1, expand = True)
 courses['Title'] = courses['Title'].str.strip("\n")
 
 print(courses)
+
+#department is the ME for mech e and such, so course ID is after

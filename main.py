@@ -71,14 +71,14 @@ def main():
     print("Step 6 — Example Recommendations for User 7")
     print(SEP)
  
-    user_id       = 7
+    user_id = 7
     already_rated = set(train_ratings[
         train_ratings["user_id"] == user_id
     ]["course_id"])
     print(f"  User {user_id} rated course IDs: {sorted(already_rated)}\n")
  
-    print("  Content-Based (similar to 'The Deep History of Climate Adaptation', id=46):")
-    cb_recs = cb.recommend(course_id=46, top_n=5)
+    print("  Content-Based (similar to 'Statistics for Quantitative Economics', id=714):")
+    cb_recs = cb.recommend(course_id=714, top_n=5)
     print(cb_recs[["course_id", "title", "content_score"]].to_string(index=False))
  
     print(f"\n  Collaborative Filtering:")

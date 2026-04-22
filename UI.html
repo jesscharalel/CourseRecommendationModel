@@ -109,10 +109,11 @@
       display: flex;
       justify-content: center;
       gap: 10px;
+      position: relative;
     }
 
     .search-box input {
-      width: 240px;
+      width: 320px;
       padding: 10px 14px;
       border-radius: 8px;
       border: 1px solid #CBD5E0;
@@ -120,11 +121,11 @@
       outline: none;
       transition: border 0.2s;
     }
-
+ 
     .search-box input:focus {
       border-color: #5DADE2;
     }
-
+ 
     .search-box button {
       padding: 10px 16px;
       background: #5DADE2;
@@ -135,9 +136,13 @@
       cursor: pointer;
       transition: background 0.2s;
     }
-
-    .search-box button:hover {
-      background: #3498DB;
+ 
+    .search-box button:hover { 
+      background: #3498DB; 
+    }
+    .search-box button:disabled { 
+      opacity: 0.6; 
+      cursor: not-allowed; 
     }
 
     /* User Banner */
@@ -210,6 +215,11 @@
     .badge-collab {
       background: #F3E8E2;
       color: #8B5E3C;
+    }
+
+    .badge-eval { 
+      background: #EEF2FF; 
+      color: #5A67D8; 
     }
 
     .section-title {
@@ -360,6 +370,145 @@
       text-align: right;
     }
 
+ /* Evaluation */
+ .eval-toggle-btn {
+      padding: 8px 18px;
+      background: #ffffff;
+      border: 1px solid #CBD5E0;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #4A5568;
+      cursor: pointer;
+      transition: background 0.2s, border-color 0.2s;
+    }
+
+    .eval-toggle-btn:hover    { 
+      background: #EAF4FB;
+      border-color: #5DADE2; 
+      color: #3498DB; 
+    }
+
+    .eval-toggle-btn:disabled { 
+      opacity: 0.6; 
+      cursor: not-allowed; 
+    }
+
+    .eval-note { 
+      font-size: 0.78rem; 
+      color: #A0AEC0; 
+    }
+ 
+    .eval-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    @media (max-width: 600px) { .eval-grid { grid-template-columns: 1fr; } }
+ 
+    .eval-card {
+      background: #ffffff;
+      border: 1px solid #E2E8F0;
+      border-radius: 14px;
+      padding: 18px 22px;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.05);
+    }
+    .eval-card-title {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #A0AEC0;
+      margin-bottom: 14px;
+    }
+ 
+    .rmse-pair { 
+      display: flex; 
+      gap: 24px; 
+    }
+
+    .rmse-item label { 
+      display: block; 
+      font-size: 0.73rem; 
+      color: #718096; 
+      margin-bottom: 4px; 
+    }
+
+    .rmse-val { 
+      font-size: 1.6rem; 
+      font-weight: 700; 
+    }
+
+    .rmse-val.train { 
+      color: #3498DB; 
+    }
+
+    .rmse-val.test  { 
+      color: #8B5E3C; 
+    }
+
+    .cv-folds { 
+      display: flex; 
+      gap: 8px; 
+      flex-wrap: wrap; 
+      margin-bottom: 10px; 
+    }
+
+    .cv-fold-chip {
+      background: #EAF4FB; 
+      border: 1px solid #BEE3F8;
+      border-radius: 8px; 
+      padding: 4px 10px;
+      font-size: 0.78rem; 
+      color: #2B6CB0; 
+      font-weight: 600;
+    }
+
+    .cv-summary { 
+      font-size: 0.82rem; 
+      color: #718096; 
+      margin-top: 6px; 
+    }
+
+    .cv-summary strong { 
+      color: #2d3748; 
+    }
+ 
+    .k-table { 
+      width: 100%; 
+      border-collapse: collapse; 
+      font-size: 0.85rem; 
+    }
+
+    .k-table th {
+      text-align: left; 
+      padding: 7px 10px;
+      font-size: 0.72rem; 
+      text-transform: uppercase;
+      letter-spacing: 0.06em; 
+      color: #718096;
+      border-bottom: 1px solid #E2E8F0;
+    }
+
+    .k-table td { 
+      padding: 9px 10px; 
+      border-bottom: 1px solid #F7FAFC; 
+    }
+    
+    .k-table tr:last-child td { 
+      border-bottom: none; 
+    }
+
+    .k-table td:first-child { 
+      font-weight: 700; 
+      color: #3498DB; 
+    }
+
+    .k-best { 
+      background: #EAF4FB; 
+    }
+ 
     /* Footer */
     footer {
       text-align: center;
@@ -401,7 +550,7 @@
       <div class="header-pill"> Tufts University</div>
 
       <div class="title-row">
-        <img src="./jumbo.png" class="jumbo-logo">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tufts_Jumbos_logo.svg/1280px-Tufts_Jumbos_logo.svg.png" class="jumbo-logo">
         <h1> Course Recommendation System</h1>
       </div>
       <p class="subtitle">Personalized recommendations using Content-Based</p>
@@ -409,109 +558,247 @@
 
     <!-- Search Section -->
     <div class="search-section">
-      <h2>Enter your ID to get started</h2>
+      <h2>Enter a course name to get started</h2>
 
       <div class="search-box">
-        <input type="text" placeholder="Enter User ID..." />
-        <button>Get Recommendations</button>
+        <input type="text" id="courseInput" placeholder="e.g. Calculus II, Linear Algebra..." autocomplete="off" />
+        <button id="getRecsBtn" onclick="fetchRecommendations()">Get Recommendations</button>
       </div>
     </div>
 
 
-    <!-- User Banner -->
-    <div class="user-banner">
-      <div class="user-avatar">7</div>
-      <div class="user-info">
-        <h2>Recommendations for User 7</h2>
-        <p>Seed course: <strong>The Deep History of Climate Adaptation</strong> &nbsp;·&nbsp; Rated IDs: 759, 869, 1389,
-          1775, 1822, 2040, 2143</p>
+    <!-- Error banner -->
+    <div id="errorBanner" style="display:none; background:#FED7D7; 
+    color:#C53030; border:1px solid #FC8181; border-radius:8px; 
+    padding:10px 16px; margin-bottom:16px; font-size:0.88rem;"></div>
+    <!-- Results space -->
+    <div class="results-area" id="resultsArea" style="display:none;">
+ 
+      <!-- Seed Banner -->
+      <div class="user-banner" id="userBanner">
+        <div class="user-avatar" id="userAvatar">?</div>
+        <div class="user-info">
+          <h2 id="userBannerTitle">—</h2>
+          <p id="userBannerMeta">—</p>
+        </div>
       </div>
-    </div>
-
-    <!-- Content-Based -->
-    <div class="section">
-      <div class="section-header">
-        <span class="section-badge badge-content">Content-Based</span>
-        <span class="section-title">Similar Courses</span>
-      </div>
-      <div class="table-wrapper">
-        <table>
-          <thead>
-            <tr>
+ 
+      <!-- Content-Based -->
+      <div class="section">
+        <div class="section-header">
+          <span class="section-badge badge-content">Content-Based</span>
+          <span class="section-title">Similar Courses</span>
+          <span class="section-desc" id="cbSeedLabel"></span>
+        </div>
+        <div class="table-wrapper">
+          <table>
+            <thead>
+              <tr>
               <th>#</th>
               <th>Course ID</th>
               <th>Title</th>
               <th>Content Score</th>
             </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><span class="rank rank-1">1</span></td>
-              <td><span class="id-chip">1181</span></td>
-              <td class="course-title">Arabian Nights</td>
-              <td>
-                <div class="score-wrap">
-                  <div class="score-bar-bg">
-                    <div class="score-bar-fill fill-content" style="width:76.67%"></div>
-                  </div><span class="score-val">0.767</span>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td><span class="rank rank-2">2</span></td>
-              <td><span class="id-chip">1159</span></td>
-              <td class="course-title">Arabian Nights</td>
-              <td>
-                <div class="score-wrap">
-                  <div class="score-bar-bg">
-                    <div class="score-bar-fill fill-content" style="width:74.86%"></div>
-                  </div><span class="score-val">0.749</span>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td><span class="rank rank-3">3</span></td>
-              <td><span class="id-chip">48</span></td>
-              <td class="course-title">Directed Study</td>
-              <td>
-                <div class="score-wrap">
-                  <div class="score-bar-bg">
-                    <div class="score-bar-fill fill-content" style="width:35.79%"></div>
-                  </div><span class="score-val">0.358</span>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td><span class="rank rank-other">4</span></td>
-              <td><span class="id-chip">49</span></td>
-              <td class="course-title">Directed Study</td>
-              <td>
-                <div class="score-wrap">
-                  <div class="score-bar-bg">
-                    <div class="score-bar-fill fill-content" style="width:35.79%"></div>
-                  </div><span class="score-val">0.358</span>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td><span class="rank rank-other">5</span></td>
-              <td><span class="id-chip">52</span></td>
-              <td class="course-title">Advanced Directed Study</td>
-              <td>
-                <div class="score-wrap">
-                  <div class="score-bar-bg">
-                    <div class="score-bar-fill fill-content" style="width:31.68%"></div>
-                  </div><span class="score-val">0.317</span>
-                </div>
-              </td>
-            </tr>
-          </tbody>
-        </table>
+            </thead>
+            <tbody id="cbTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+    
+    <!-- Evaluation -->
+    <div class="section">
+      <div class="section-header">
+        <span class="section-badge badge-eval">Evaluation</span>
+        <span class="section-title">Model Performance</span>
+      </div>
+      <div style="display:flex; align-items:center; gap:14px; flex-wrap:wrap; 
+                  margin-bottom:16px;">
+        <button class="eval-toggle-btn" id="runEvalBtn" onclick="runEvaluation()">&#9654; 
+                      Run Evaluation</button>
+        <span class="eval-note" id="evalNote">Runs RMSE, 5-fold CV, and k-factor 
+                    comparison — takes ~10-30 s</span>
+      </div>
+ 
+      <div id="evalResults" style="display:none;">
+        <div class="eval-grid">
+          <div class="eval-card">
+            <div class="eval-card-title">Train vs Test RMSE</div>
+            <div class="rmse-pair">
+              <div class="rmse-item">
+                <label>Train RMSE</label>
+                <div class="rmse-val train" id="evalTrainRmse">—</div>
+              </div>
+              <div class="rmse-item">
+                <label>Test RMSE</label>
+                <div class="rmse-val test" id="evalTestRmse">—</div>
+              </div>
+            </div>
+            <p style="font-size:0.75rem;color:#A0AEC0;margin-top:10px;">
+              Lower test RMSE = better generalisation</p>
+          </div>
+          <div class="eval-card">
+            <div class="eval-card-title">5-Fold Cross-Validation (k=20)</div>
+            <div class="cv-folds" id="cvFolds"></div>
+            <div class="cv-summary" id="cvSummary"></div>
+          </div>
+        </div>
+        <div class="eval-card">
+          <div class="eval-card-title">k-Factor Comparison</div>
+          <table class="k-table">
+            <thead><tr><th>k</th><th>Train RMSE</th><th>Test RMSE</th><th>
+                  Gap (overfit)</th></tr></thead>
+            <tbody id="kTableBody"></tbody>
+          </table>
+        </div>
       </div>
     </div>
+ 
     <footer>Tufts Course Recommendation System · Content-Based Filtering</footer>
-
+ 
   </div>
+ 
+  <script>
+    const RANK_CLASSES = ["rank-1","rank-2","rank-3","rank-other","rank-other",
+                          "rank-other","rank-other","rank-other"];
+ 
+    // Stats
+    async function loadStats() {
+      try {
+        const d = await fetch("/api/stats").then(r => r.json());
+        document.getElementById("statCourses").textContent = 
+                                                d.num_courses.toLocaleString();
+        document.getElementById("statRatings").textContent =
+                                                d.num_ratings.toLocaleString();
+        document.getElementById("statUsers").textContent =
+                                                  d.num_users.toLocaleString();
+      } catch(e) {}
+    }
+ 
+    // For enter key
+    document.getElementById("courseInput").addEventListener("keydown", function(e) {
+      if (e.key === "Enter") fetchRecommendations();
+    });
+ 
+    // Fetching the recommendations
+    async function fetchRecommendations() {
+      const btn   = document.getElementById("getRecsBtn");
+      const errEl = document.getElementById("errorBanner");
+      errEl.style.display = "none";
+      document.getElementById("resultsArea").style.display = "none";
+ 
+      const q = document.getElementById("courseInput").value.trim();
+      if (!q) { showError("Please enter a course name."); return; }
+ 
+      btn.disabled = true; btn.textContent = "Loading…";
+      try {
+        const results = await fetch("/api/search?q=" + 
+                        encodeURIComponent(q)).then(r => r.json());
+        if (!results.length) { showError('No courses found matching "' + q 
+                              + '".'); return; }
+        const courseId = results[0].course_id;
+ 
+        const res  = await fetch("/api/recommend?course_id=" + courseId);
+        const data = await res.json();
+        if (!res.ok) { showError(data.error || "Error " + res.status); return; }
+        renderResults(data);
+      } catch(e) {
+        showError("Could not reach the server. Is app.py running?");
+      } finally {
+        btn.disabled = false; btn.textContent = "Get Recommendations";
+      }
+    }
+ 
+    // For the results
+    function renderResults(data) {
+      // Banner
+      const banner = document.getElementById("userBanner");
+      banner.style.display = "flex";
+      document.getElementById("userAvatar").textContent = 
+                              data.seed_dept.split("/")[0].trim().slice(0,4);
+      document.getElementById("userBannerTitle").textContent = data.seed_title;
+      document.getElementById("userBannerMeta").innerHTML = 
+                              'Department: <strong>' + escHtml(data.seed_dept) 
+                                + '</strong> &nbsp;&middot;&nbsp; Course ID: ' 
+                                + data.seed_id;
+      document.getElementById("cbSeedLabel").textContent = 'seed id: ' + 
+                                                            data.seed_id;
+ 
+      // Content-based table
+      const maxScore = Math.max.apply(null, data.content_based.map(r => r.content_score).concat([0.001]));
+      document.getElementById("cbTableBody").innerHTML = data.content_based.map((r, i) => {
+        const pct = ((r.content_score / maxScore) * 100).toFixed(2);
+        return '<tr>' +
+          '<td><span class="rank ' + (RANK_CLASSES[i] || "rank-other") + '">' + 
+                                (i+1) + '</span></td>' +
+          '<td><span class="id-chip">' + r.course_id + '</span></td>' +
+          '<td class="course-title">' + escHtml(r.title) + '</td>' +
+          '<td><div class="score-wrap"><div class="score-bar-bg"><div class="score-bar-fill fill-content" style="width:' 
+          + pct + '%"></div></div>' + '<span class="score-val">' + 
+            r.content_score.toFixed(3) + '</span></div></td>' +
+        '</tr>';
+      }).join("");
+ 
+      document.getElementById("resultsArea").style.display = "block";
+      document.getElementById("resultsArea").scrollIntoView(
+                              { behavior: "smooth", block: "start" });
+    }
+ 
+    // Evaluation
+    async function runEvaluation() {
+      const btn  = document.getElementById("runEvalBtn");
+      const note = document.getElementById("evalNote");
+      btn.disabled = true; btn.textContent = "Running…";
+      note.textContent = "This may take 10–30 seconds…";
+      try {
+        const res  = await fetch("/api/evaluate");
+        const data = await res.json();
+        if (!res.ok) { note.textContent = data.error || "Failed."; return; }
+ 
+        document.getElementById("evalTrainRmse").textContent = 
+                                              data.train_rmse.toFixed(4);
+        document.getElementById("evalTestRmse").textContent = 
+                                                data.test_rmse.toFixed(4);
+ 
+        document.getElementById("cvFolds").innerHTML = 
+                                            data.cross_validation.folds
+        .map(f => '<span class="cv-fold-chip">Fold ' + f.fold + ': '
+         + f.rmse + '</span>').join("");
+        document.getElementById("cvSummary").innerHTML =
+          'Mean: <strong>' + data.cross_validation.mean + 
+            '</strong> &nbsp;&plusmn;&nbsp; Std: <strong>' + 
+              data.cross_validation.std + '</strong>';
+ 
+        const minTest = Math.min.apply(null, data.k_comparison.map(r => r.test_rmse));
+        document.getElementById("kTableBody").innerHTML = data.k_comparison.map(r => {
+          const best = r.test_rmse === minTest;
+          return '<tr class="' + (best ? "k-best" : "") + '">' +
+            '<td>k = ' + r.k + (best ? " &#9733;" : "") + '</td>' +
+            '<td>' + r.train_rmse + '</td><td>' + r.test_rmse + '</td>' +
+            '<td>' + (r.test_rmse - r.train_rmse).toFixed(4) + '</td></tr>';
+        }).join("");
+ 
+        document.getElementById("evalResults").style.display = "block";
+        note.textContent = "Evaluation complete";
+        btn.textContent  = "Re-run";
+      } catch(e) {
+        note.textContent = "Could not reach the server.";
+      } finally { btn.disabled = false; }
+    }
+ 
+    //  Helper functions
+    function showError(msg) {
+      const el = document.getElementById("errorBanner");
+      el.textContent = msg; el.style.display = "block";
+    }
+    function escHtml(s) {
+      return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+    }
+    function escJs(s) {
+      return String(s).replace(/\\/g,"\\\\").replace(/'/g,"\\'");
+    }
+ 
+    loadStats();
+  </script>
 </body>
-
+ 
 </html>

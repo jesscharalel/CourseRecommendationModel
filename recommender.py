@@ -50,12 +50,13 @@ class ContentBasedRecommender:
             DataFrame with columns [course_id, title, category,
                                     difficulty, rating, content_score]
         """
+        course_id = int(course_id)
         idx    = self.idx_map[course_id]
         sims   = list(enumerate(self.sim_matrix[idx]))
         sims   = sorted(sims, key=lambda x: x[1], reverse=True)[1:]
         top    = [self.courses.index[i] for i, _ in sims[:top_n]]
         scores = [round(s, 4) for _, s in sims[:top_n]]
-        result = self.courses.loc[top, ["title", "category",
+        result = self.courses.loc[top, ["title", "department",
                                         "difficulty", "rating"]].copy()
         result["content_score"] = scores
         return result.reset_index()
@@ -158,7 +159,7 @@ class CollaborativeRecommender:
         top_cids   = [cid for cid, _ in candidates[:top_n]]
         top_scores = [round(s, 4) for _, s in candidates[:top_n]]
         result = COURSES.set_index("course_id").loc[
-            top_cids, ["title", "category", "difficulty", "rating"]
+            top_cids, ["title", "department", "difficulty", "rating"]
         ].copy()
         result["predicted_rating"] = top_scores
         return result.reset_index()
